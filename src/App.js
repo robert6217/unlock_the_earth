@@ -1,25 +1,49 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from 'react';
+import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
+import 'leaflet/dist/leaflet.css';
+
+import L from 'leaflet';
+
+const yellowPinIcon = new L.Icon({
+	iconUrl: '/yellow-pin.png',
+	iconSize: [30, 40],
+	iconAnchor: [15, 40],
+	popupAnchor: [0, -40],
+});
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	const position = [20, 0];
+	const [locations, setLocations] = useState([]);
+
+	useEffect(() => {
+		fetch('/map_info/data.json')
+			.then(res => res.json())
+			.then(data => {
+				setLocations(data);
+			});
+	}, []);
+
+	return (
+		<div style={{ height: '100vh', width: '100%' }}>
+			<MapContainer center={position} zoom={3} style={{ height: '100%', width: '100%' }}>
+				<TileLayer
+					attribution='&copy; https://www.openstreetmap.org/ contributors'
+					url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png"
+				/>
+				{locations.map((loc, index) => (
+					<Marker key={index} position={[loc.coordinates.lat, loc.coordinates.lng]} icon={yellowPinIcon}>
+						<Popup>
+							<strong>{loc.name}</strong><br />
+							{loc.podcast.title}<br />
+							<a href={loc.podcast.url} target="_blank" rel="noopener noreferrer">
+								收聽 Podcast
+							</a>
+						</Popup>
+					</Marker>
+				))}
+			</MapContainer>
+		</div>
+	);
 }
 
 export default App;
