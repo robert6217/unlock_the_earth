@@ -5,7 +5,7 @@ import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
 
 const yellowPinIcon = new L.Icon({
-	iconUrl: '/yellow-pin.png',
+	iconUrl: process.env.PUBLIC_URL + '/yellow-pin.png',
 	iconSize: [30, 40],
 	iconAnchor: [15, 40],
 	popupAnchor: [0, -40],
@@ -16,7 +16,7 @@ function App() {
 	const [locations, setLocations] = useState([]);
 
 	useEffect(() => {
-		fetch('/map_info/data.json')
+		fetch(process.env.PUBLIC_URL + '/map_info/data.json')
 			.then(res => res.json())
 			.then(data => {
 				setLocations(data);
