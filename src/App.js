@@ -28,7 +28,7 @@ function App() {
 			<MapContainer center={position} zoom={3} style={{ height: '100%', width: '100%' }}>
 				<TileLayer
 					attribution='&copy; https://www.openstreetmap.org/ contributors'
-					url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png"
+					url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
 				/>
 				{locations.map((loc, index) => (
 					<Marker key={index} position={[loc.coordinates.lat, loc.coordinates.lng]} icon={yellowPinIcon}>
