@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/unlock_the_earth/static/css/main.323d7611.css",
-    "main.js": "/unlock_the_earth/static/js/main.c7d4238a.js",
+    "main.js": "/unlock_the_earth/static/js/main.7210461a.js",
     "static/js/453.458602d4.chunk.js": "/unlock_the_earth/static/js/453.458602d4.chunk.js",
     "index.html": "/unlock_the_earth/index.html",
     "main.323d7611.css.map": "/unlock_the_earth/static/css/main.323d7611.css.map",
-    "main.c7d4238a.js.map": "/unlock_the_earth/static/js/main.c7d4238a.js.map",
+    "main.7210461a.js.map": "/unlock_the_earth/static/js/main.7210461a.js.map",
     "453.458602d4.chunk.js.map": "/unlock_the_earth/static/js/453.458602d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.323d7611.css",
-    "static/js/main.c7d4238a.js"
+    "static/js/main.7210461a.js"
   ]
 }
