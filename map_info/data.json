@@ -3,428 +3,458 @@
     "$oid": "68f7404eccc96905f52395c3"
   },
   "name": "柬埔寨",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 11.55,
     "lng": 104.916
   },
   "podcast": {
     "title": "Ep.2 到柬埔寨不要再只去吳哥窟了 | 紅色高棉是屠殺界的霸主 | 「殺人」以外的金邊",
-    "url": "https://m.cdn.firstory.me/track/cjzryn64q34i607580oyblh1u/ck1d8dnaivprr0786azljoj7w/https%3A%2F%2Ffiles.firstory-cdn.me%2FRecord%2Fcjzryn64q34i607580oyblh1u%2F1598847740299.mp3",
-    "description": "<p>跟著我們到柬埔寨首都金邊，一探這座以「殺人」聞名的城市。  <br/> <br/>1975 - 1979 年，柬埔寨共產黨（俗稱紅色高棉）在這邊展開了極權的恐怖統治，短短不到四年的時間，居然殺死全國上下超過五分之一的人口，堪稱 20 世紀最有效率的殺人政權。即使在四十年後的今天，金邊依然以這場「自我滅絕」吸引無數遊客前來。想一睹紅色高棉遺留的足跡嗎？點擊 Podcast 一起來聽聽看吧！  <br/> <br/>除此之外，歡迎大家從以下地方跟我們連繫，告訴我們你的心得或意見：  <br/>Facebook： fb.me/unlock.the.earth.travel  <br/>Instagram： https://www.instagram.com/unlock.the.earth.podcast/  <br/>Medium 部落格: http://bit.ly/medium-unlocktheearth  <br/> <br/>補充資料：  <br/>1. 吐斯廉屠殺紀念館原本是「昭博涅亞中學」，後來被紅色高棉改造成集中營和集體處決中心。改造後該地區被重新命名為第 21 號安全監獄（Security Prison 21；S-21），簡稱S-21，數字 21 是其在金邊南部所在地 Sangkat Tuol Svay Prey 的代碼。現場真的一時想不起來XDD  <br/>2. 《他們先殺了我父親：一個柬埔寨女兒的回憶錄》電影預告連結：https://www.youtube.com/watch?v=uS3Vp_quGCw  <br/>3. 延伸閱讀: 解鎖柬埔寨 vol.3: 金邊 | 除了殺人以外 (但還是包括殺人就是了) http://bit.ly/medium-unlocktheearth-PhnomPenh  <br/> <br/>-------------------  <br/>Music from https://soundcloud.com/joakimkarud/dreams-1 Dreams by Joakim Karud <br/> <br/>→ 喜歡解鎖地球嗎? 一鍵支持，讓我們繼續產出優質節目：https://open.firstory.me/join/unlocktheearth</p> <br/> <br/>Powered by <a href=\"https://firstory.me/zh\">Firstory Hosting</a>"
-  },
-  "__v": 0
+    "url": "https://youtu.be/GSwC5mOLjlc?si=Rdhtvp-j0FJZENDf",
+    "description": "這集跟著我們到柬埔寨首都金邊，一探這座以「殺人」聞名的城市。1975 - 1979 年，柬埔寨共產黨（俗稱紅色高棉）在這邊展開了極權的恐怖統治，短短不到四年的時間，居然殺死全國上下超過五分之一的人口，堪稱 20 世紀最有效率的殺人政權。即使在四十年後的今天，金邊依然以這場「自我滅絕」吸引無數遊客前來。想一睹紅色高棉遺留的足跡嗎？點擊 Podcast 一起來聽聽看吧！"
+  }
 },
 {
   "_id": {
     "$oid": "68f742b5ccc96905f52395c9"
   },
   "name": "佛羅倫斯",
+  "continent": "歐洲",
   "coordinates": {
     "lat": 43.7695,
     "lng": 11.255
   },
   "podcast": {
-    "title": "Ep.3  中世紀魔幻小城佛羅倫斯 | 托斯卡尼豔陽下 | 歐洲詐騙集團"
-  },
-  "__v": 0
+    "title": "Ep.3  中世紀魔幻小城佛羅倫斯 | 托斯卡尼豔陽下 | 歐洲詐騙集團",
+	"url": "https://youtu.be/doWR5HYGgjU?si=irTGMQBPyVvKwCwc"
+  }
 },
 {
   "_id": {
     "$oid": "68f74328ccc96905f52395cf"
   },
   "name": "仰光",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 16.8406,
     "lng": 96.1735
   },
   "podcast": {
-    "title": "Ep.4 仰光不是緬甸首都 | 翁山蘇姬崩壞了嗎 | 地球邊緣人羅興亞人"
-  },
-  "__v": 0
+    "title": "Ep.4 仰光不是緬甸首都 | 翁山蘇姬崩壞了嗎 | 地球邊緣人羅興亞人",
+	"url": "https://youtu.be/p-o7wK64S7o?si=hTgSQqi-GwODWzav"
+  }
 },
 {
   "_id": {
     "$oid": "68f74341ccc96905f52395d3"
   },
   "name": "清邁",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 18.7884,
     "lng": 98.9853
   },
   "podcast": {
-    "title": "Ep.5 清邁去一遍不夠，那你有去十遍嗎？ | 又是數位遊牧 | 泰緬孤軍 ft. Yijia"
-  },
-  "__v": 0
+    "title": "Ep.5 清邁去一遍不夠，那你有去十遍嗎？ | 又是數位遊牧 | 泰緬孤軍 ft. Yijia",
+	"url": "https://youtu.be/L43BeCci6_Y?si=l0SDhaI7ZIZcur7y"
+  }
 },
 {
   "_id": {
     "$oid": "68f743edccc96905f52395d7"
   },
   "name": "大理市",
+  "continent": "亞洲",
   "coordinates": {
-    "lat": 25.4051,
-    "lng": 100.1801
+    "lat": 25.5728822,
+    "lng": 100.0659952
   },
   "podcast": {
-    "title": "Ep.6 單車解鎖地球 | 大理、拉薩、尼泊爾 | 滇藏公路 2200 公里 ft. 蕭斌"
-  },
-  "__v": 0
+    "title": "Ep.6 單車解鎖地球 | 大理、拉薩、尼泊爾 | 滇藏公路 2200 公里 ft. 蕭斌",
+	"url": "https://youtu.be/QbEpd8MlMC8?si=JCnrlHpqb93hQeUT"
+  }
 },
 {
   "_id": {
     "$oid": "68f74434ccc96905f52395db"
   },
   "name": "尼泊爾",
+  "continent": "亞洲",
   "coordinates": {
-    "lat": 25.033,
-    "lng": 85.33
+    "lat": 27.7090302,
+    "lng": 85.2849333
   },
   "podcast": {
-    "title": "Ep.6 單車解鎖地球 | 大理、拉薩、尼泊爾 | 滇藏公路 2200 公里 ft. 蕭斌"
-  },
-  "__v": 0
+    "title": "Ep.6 單車解鎖地球 | 大理、拉薩、尼泊爾 | 滇藏公路 2200 公里 ft. 蕭斌",
+	"url": "https://youtu.be/QbEpd8MlMC8?si=JCnrlHpqb93hQeUT"
+  }
 },
 {
   "_id": {
     "$oid": "68f74451ccc96905f52395df"
   },
   "name": "拉薩",
+  "continent": "亞洲",
   "coordinates": {
-    "lat": 29.6525,
-    "lng": 91.1721
+    "lat": 29.6320633,
+    "lng": 90.7251394
   },
   "podcast": {
-    "title": "Ep.6 單車解鎖地球 | 大理、拉薩、尼泊爾 | 滇藏公路 2200 公里 ft. 蕭斌"
-  },
-  "__v": 0
+    "title": "Ep.6 單車解鎖地球 | 大理、拉薩、尼泊爾 | 滇藏公路 2200 公里 ft. 蕭斌",
+	"url": "https://youtu.be/QbEpd8MlMC8?si=JCnrlHpqb93hQeUT"
+  }
 },
 {
   "_id": {
     "$oid": "68f744fbccc96905f52395e7"
   },
   "name": "德國",
+  "continent": "歐洲",
   "coordinates": {
-    "lat": 48.1351,
-    "lng": 11.582
+    "lat": 52.5069386,
+    "lng": 13.2599276
   },
   "podcast": {
-    "title": "Ep.7 你以為慕尼黑啤酒節只有喝啤酒嗎 | 德國天龍國巴伐利亞"
-  },
-  "__v": 0
+    "title": "Ep.7 你以為慕尼黑啤酒節只有喝啤酒嗎 | 德國天龍國巴伐利亞",
+	"url": "https://youtu.be/-sCx2qu2WJQ?si=EMdPCe2acfrQvjsS"
+  }
 },
 {
   "_id": {
     "$oid": "68f7454accc96905f52395ec"
   },
   "name": "加拿大東部",
+  "continent": "北美洲",
   "coordinates": {
     "lat": 45.4215,
     "lng": -71.582
   },
   "podcast": {
-    "title": "Ep.8 單車解鎖美加 | 加拿大東部 1600 公里 | 美國西岸縱貫 2000 公里 ft. 蕭斌"
-  },
-  "__v": 0
+    "title": "Ep.8 單車解鎖美加 | 加拿大東部 1600 公里 | 美國西岸縱貫 2000 公里 ft. 蕭斌",
+	"url": "https://youtu.be/KD2Lgqpu-S4?si=2sXmLJ_V6N6CnJ1g"
+  }
 },
 {
   "_id": {
     "$oid": "68f74564ccc96905f52395f0"
   },
   "name": "美國西岸縱貫",
+  "continent": "北美洲",
   "coordinates": {
     "lat": 44.0582,
     "lng": -121.3153
   },
   "podcast": {
-    "title": "Ep.8 單車解鎖美加 | 加拿大東部 1600 公里 | 美國西岸縱貫 2000 公里 ft. 蕭斌"
-  },
-  "__v": 0
+    "title": "Ep.8 單車解鎖美加 | 加拿大東部 1600 公里 | 美國西岸縱貫 2000 公里 ft. 蕭斌",
+	"url": "https://youtu.be/KD2Lgqpu-S4?si=2sXmLJ_V6N6CnJ1g"
+  }
 },
 {
   "_id": {
     "$oid": "68f745e8ccc96905f52395f4"
   },
   "name": "宿霧",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 10.3157,
     "lng": 123.8854
   },
   "podcast": {
-    "title": "Ep.12 菲律賓街頭美食 | 跳島玩翻宿霧 | 進化的強人政治 ft. Tayli"
-  },
-  "__v": 0
+    "title": "Ep.12 菲律賓街頭美食 | 跳島玩翻宿霧 | 進化的強人政治 ft. Tayli",
+	"url": "https://youtu.be/cUTILqhDSw0?si=05mh1N_gWYrUmim2"
+  }
 },
 {
   "_id": {
     "$oid": "68f74610ccc96905f52395f8"
   },
   "name": "越南",
+  "continent": "亞洲",
   "coordinates": {
-    "lat": 15.87,
-    "lng": 108.2772
+    "lat": 14.388391,
+    "lng": 108.425078
   },
   "podcast": {
-    "title": "Ep.13 二手檔車縱貫越南 2000 公里 | 摔車遇真愛 | 越南衰事連發 ft. Mania"
-  },
-  "__v": 0
+    "title": "Ep.13 二手檔車縱貫越南 2000 公里 | 摔車遇真愛 | 越南衰事連發 ft. Mania",
+	"url": "https://youtu.be/2ZPhp2hHHeU?si=C8uZGxfbEVU2WRvl"
+  }
 },
 {
   "_id": {
     "$oid": "68f746d6ccc96905f5239602"
   },
   "name": "加拿大",
+  "continent": "北美洲",
   "coordinates": {
     "lat": 54.2224216,
     "lng": -116.7540012
   },
   "podcast": {
-    "title": "Ep.14 在家鄉的特權，只有離開了才知道 | 加拿大菜鳥新移民 ft. 蕭斌"
-  },
-  "__v": 0
+    "title": "Ep.14 在家鄉的特權，只有離開了才知道 | 加拿大菜鳥新移民 ft. 蕭斌",
+	"url": "https://youtu.be/66W4iCSlDnE?si=d-WbUWciUB8vzias"
+  }
 },
 {
   "_id": {
     "$oid": "68f74702ccc96905f5239606"
   },
   "name": "哥斯大黎加",
+  "continent": "中美洲",
   "coordinates": {
     "lat": 9.7489172,
     "lng": -83.753428
   },
   "podcast": {
-    "title": "Ep.15 哥斯大黎加是中美洲的台灣？ | 不要再搞混中美南美了"
-  },
-  "__v": 0
+    "title": "Ep.15 哥斯大黎加是中美洲的台灣？ | 不要再搞混中美南美了",
+	"url": "https://youtu.be/xgZ7Si1nyGU?si=xr63e1K94KkwX25l"
+  }
 },
 {
   "_id": {
     "$oid": "68f7473accc96905f523960a"
   },
-  "name": "衣索比亞 Ethiopia",
+  "name": "衣索比亞",
+  "continent": "非洲",
   "coordinates": {
-    "lat": 9.145,
-    "lng": 40.489673
+    "lat": 8.467601,
+    "lng": 39.739036
   },
   "podcast": {
-    "title": "Ep.17 在衣索比亞工作是什麼概念？ | 鐵鍊是非洲旅行神器 ft. 阿賢"
-  },
-  "__v": 0
+    "title": "Ep.17 在衣索比亞工作是什麼概念？ | 鐵鍊是非洲旅行神器 ft. 阿賢",
+	"url": "https://youtu.be/rH9_TJLz0TA?si=LvfmLFcLX2BFMd3Q"
+  }
 },
 {
   "_id": {
     "$oid": "68f74863ccc96905f523960c"
   },
-  "name": "柬埔寨 Cambodia",
+  "name": "柬埔寨",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 11.5791974,
     "lng": 104.5783581
   },
   "podcast": {
-    "title": "Ep.19 吳哥王朝前世今生 | 真臘風土記根本神作 | 古高棉人很淫蕩? ft. Shawn"
-  },
-  "__v": 0
+    "title": "Ep.19 吳哥王朝前世今生 | 真臘風土記根本神作 | 古高棉人很淫蕩? ft. Shawn",
+	"url": "https://youtu.be/Nif73q9U6u0?si=QeSz43AOYzWfSw7X"
+  }
 },
 {
   "_id": {
     "$oid": "68f748aaccc96905f523960e"
   },
-  "name": "吳哥窟 Angkor Wat",
+  "name": "吳哥窟",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 13.4078386,
     "lng": 103.85577
   },
   "podcast": {
-    "title": "Ep.20 吳哥宅續集 | 帶你逛吳哥窟 | 除了金邊跟吳哥以外的柬埔寨也好玩 ft. Shawn"
-  },
-  "__v": 0
+    "title": "Ep.20 吳哥宅續集 | 帶你逛吳哥窟 | 除了金邊跟吳哥以外的柬埔寨也好玩 ft. Shawn",
+	"url": "https://youtu.be/QrRw31ShWwU?si=Q1y9P-Po2q4OPtuu"
+  }
 },
 {
   "_id": {
     "$oid": "68f7497bccc96905f5239614"
   },
-  "name": "倫敦 London, UK",
+  "name": "倫敦",
+  "continent": "歐洲",
   "coordinates": {
-    "lat": 51.5074,
-    "lng": -0.1278
+    "lat": 51.5201668,
+    "lng": -0.192636
   },
   "podcast": {
-    "title": "Ep.23 凡人能欣賞博物館嗎 | 爭議性文物 | 倫敦千奇百怪的主題導覽 ft. Craig"
-  },
-  "__v": 0
+    "title": "Ep.23 凡人能欣賞博物館嗎 | 爭議性文物 | 倫敦千奇百怪的主題導覽 ft. Craig",
+	"url": "https://youtu.be/pruW-GPVGhA?si=uSlE_l5JuSlA7V_F"
+  }
 },
 {
   "_id": {
     "$oid": "68f74b75ccc96905f5239618"
   },
-  "name": "索菲亞 Sofia",
+  "name": "索菲亞",
+  "continent": "歐洲",
   "coordinates": {
     "lat": 42.6954026,
     "lng": 23.2415467
   },
   "podcast": {
-    "title": "Ep.24 被說是東歐就會森七七的保加利亞 | 索菲亞便宜舒爽旅居天堂 ft. Neo\n"
-  },
-  "__v": 0
+    "title": "Ep.24 被說是東歐就會森七七的保加利亞 | 索菲亞便宜舒爽旅居天堂 ft. Neo",
+	"url": "https://youtu.be/cMaTNpS5-k8?si=dqtq-2ryBJol5AMp"
+  }
 },
 {
   "_id": {
     "$oid": "68f74d1eccc96905f523961a"
   },
-  "name": "緬甸 Myanmar",
+  "name": "緬甸",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 19.7470637,
     "lng": 96.0104692
   },
   "podcast": {
-    "title": "Ep.25 第一次工作就去緬甸 | 緬甸草莓族 | 租不起的仰光鬼屋 ft. Debby"
-  },
-  "__v": 0
+    "title": "Ep.25 第一次工作就去緬甸 | 緬甸草莓族 | 租不起的仰光鬼屋 ft. Debby",
+	"url": "https://youtu.be/y1nKWXXZPtA?si=ss5c4M4685cN80Yd"
+  }
 },
 {
   "_id": {
     "$oid": "68f74dcaccc96905f523961e"
   },
-  "name": "印度 India",
+  "name": "印度",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 28.5274141,
     "lng": 77.0530951
   },
   "podcast": {
-    "title": "Ep.26 鹿港女神降臨印度 | 流亡藏人我同事 | 印度、西藏美食吃起來 ft. 拾號"
-  },
-  "__v": 0
+    "title": "Ep.26 鹿港女神降臨印度 | 流亡藏人我同事 | 印度、西藏美食吃起來 ft. 拾號",
+	"url": "https://youtu.be/jI5EWuFq1xk?si=1AvRubHdKXSmyHWw"
+  }
 },
 {
   "_id": {
     "$oid": "68f74de4ccc96905f5239620"
   },
-  "name": "法國 France",
+  "name": "法國",
+  "continent": "歐洲",
   "coordinates": {
     "lat": 46.603354,
     "lng": 1.888334
   },
   "podcast": {
-    "title": "Ep.27 深入觀光以外的法國 | 神秘地下墓穴、地下 Tekno 派對、Squat 文化 ft. Yun"
-  },
-  "__v": 0
+    "title": "Ep.27 深入觀光以外的法國 | 神秘地下墓穴、地下 Tekno 派對、Squat 文化 ft. Yun",
+	"url": "https://youtu.be/mMJ7_suY02Y?si=0KmOlUCI73VkXCoP"
+  }
 },
 {
   "_id": {
     "$oid": "68f74eb7ccc96905f5239624"
   },
-  "name": "西巴布亞 Indonesia Papua",
+  "name": "西巴布亞",
+  "continent": "亞洲",
   "coordinates": {
     "lat": -2.4091111,
     "lng": 132.1032426
   },
   "podcast": {
-    "title": "Ep.28 闖入西巴布亞食人族部落過夜！ | 你知道西巴布亞想獨立嗎 ft. 融融歷險記"
-  },
-  "__v": 0
+    "title": "Ep.28 闖入西巴布亞食人族部落過夜！ | 你知道西巴布亞想獨立嗎 ft. 融融歷險記",
+	"url": "https://youtu.be/KZUfsTJOOgA?si=SDyygdy20y01kEP7"
+  }
 },
 {
   "_id": {
     "$oid": "68f74ed6ccc96905f5239628"
   },
-  "name": "巴拿馬 Panama",
+  "name": "巴拿馬",
+  "continent": "中美洲",
   "coordinates": {
     "lat": 8.982379,
     "lng": -79.520773
   },
   "podcast": {
-    "title": "Ep.29 教中文教到巴拿馬去 | 外交替代役現場直擊台巴斷交 ft. Jason"
-  },
-  "__v": 0
+    "title": "Ep.29 教中文教到巴拿馬去 | 外交替代役現場直擊台巴斷交 ft. Jason",
+	"url": "https://youtu.be/sO_gfZ-TIH4?si=84dttXYHi8O9GoPB"
+  }
 },
 {
   "_id": {
     "$oid": "68f74f69ccc96905f523962c"
   },
-  "name": "布達佩斯 Budapest, 匈牙利 Hungary",
+  "name": "布達佩斯",
+  "continent": "歐洲",
   "coordinates": {
     "lat": 47.4813274,
     "lng": 18.9654979
   },
   "podcast": {
-    "title": "Ep.30 布達佩斯 = 布達 + 佩斯? | 歐洲最大的 Party City 上線啦 ft. Neo"
-  },
-  "__v": 0
+    "title": "Ep.30 布達佩斯 = 布達 + 佩斯? | 歐洲最大的 Party City 上線啦 ft. Neo",
+	"url": "https://youtu.be/8yToLj8yPpw?si=UkIF6B9lPNEsc_Wf"
+  }
 },
 {
   "_id": {
     "$oid": "68f7526cccc96905f5239634"
   },
-  "name": "丹老群島 Mergui Archipelago, 緬甸 Myanmar",
+  "name": "丹老群島",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 11.280671,
     "lng": 98.218479
   },
   "podcast": {
-    "title": "Ep.33 緬甸選舉造勢跟開趴一樣嗨 | 經典路線外的緬甸 | 丹老群島原始生活 ft. Debby"
-  },
-  "__v": 0
+    "title": "Ep.33 緬甸選舉造勢跟開趴一樣嗨 | 經典路線外的緬甸 | 丹老群島原始生活 ft. Debby",
+	"url": "https://youtu.be/OQ5MQUvctpM?si=iEW2pqTqkfun6Mk1"
+  }
 },
 {
   "_id": {
     "$oid": "68f75357ccc96905f5239638"
   },
-  "name": "北韓 North Korea",
+  "name": "北韓",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 40.3399,
     "lng": 127.5101
   },
   "podcast": {
-    "title": "Ep.35 北韓全民大臨演 | 平壤最大實境 RPG「逃出羊角島」 ft. 融融歷險記"
-  },
-  "__v": 0
+    "title": "Ep.35 北韓全民大臨演 | 平壤最大實境 RPG「逃出羊角島」 ft. 融融歷險記",
+	"url": "https://youtu.be/1HD9uylZb38?si=6GA2g0i5NaVhYpcB"
+  }
 },
 {
   "_id": {
     "$oid": "68f75389ccc96905f523963c"
   },
-  "name": "芬蘭 Finland",
+  "name": "芬蘭",
+  "continent": "歐洲",
   "coordinates": {
     "lat": 60.1695,
     "lng": 24.9354
   },
   "podcast": {
-    "title": "Ep.36 芬蘭跳舞極光怎麼看 | 零下 30 度極圈生活 | 官方認證聖誕老人 ft. Ralph"
-  },
-  "__v": 0
+    "title": "Ep.36 芬蘭跳舞極光怎麼看 | 零下 30 度極圈生活 | 官方認證聖誕老人 ft. Ralph",
+	"url": "https://youtu.be/ceNPcp6aFJk?si=qZow5LWA-BlblB5P"
+  }
 },
 {
   "_id": {
     "$oid": "68f7540bccc96905f5239640"
   },
-  "name": "寮國 Laos",
+  "name": "寮國",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 19.8563,
     "lng": 102.4955
   },
   "podcast": {
-    "title": "Ep.1 經典復刻版 | 你說，泰寮邊境有什麼 | 永珍是中南半島清流 | 寮國女孩 Noi"
-  },
-  "__v": 0
+    "title": "Ep.1 經典復刻版 | 你說，泰寮邊境有什麼 | 永珍是中南半島清流 | 寮國女孩 Noi",
+	"url": "https://youtu.be/olnhDLg75Ks?si=vip3Np9kHXSFblt0"
+  }
 },
 {
   "_id": {
     "$oid": "68f754e0ccc96905f5239642"
   },
   "name": "開封市",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 34.671859,
     "lng": 113.9708068
   },
   "podcast": {
-    "title": "Ep.38 開封是古代中國的矽谷 | 千年古蹟全新落成 | 宋代詩人都是美食網紅 ft. 李純瑀"
-  },
-  "__v": 0
+    "title": "Ep.38 開封是古代中國的矽谷 | 千年古蹟全新落成 | 宋代詩人都是美食網紅 ft. 李純瑀",
+	"url": "https://youtu.be/blMM8AnBgIo?si=IT9rOpzyyaOAnKb6"
+  }
 },
 {
   "_id": {
     "$oid": "68f83ee6ccc96905f523964a"
   },
   "name": "以色列",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 31.7963695,
     "lng": 35.0194697
@@ -432,14 +462,14 @@
   "podcast": {
     "title": "Ep.40 巴勒斯坦人動不動就邀你回家 | 以色列放飛彈假 | 在死海不要亂放屁 ft. Angel",
     "url": "https://www.youtube.com/watch?v=HxDRppLtOP0"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f8418cccc96905f523964e"
   },
   "name": "秘魯",
+  "continent": "南美洲",
   "coordinates": {
     "lat": -12.0262542,
     "lng": -77.152588
@@ -447,14 +477,14 @@
   "podcast": {
     "title": "Ep.41 印加帝國迭起興衰 | 秘魯死藤水儀式初體驗 | 天空之鏡其實是主題樂園 ft. 康康",
     "url": "https://youtu.be/8Zhp3lQ7-oQ?si=eKBLdaMFWkd79RW2"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f8423cccc96905f5239654"
   },
   "name": "沖繩",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 26.3606037,
     "lng": 127.7726947
@@ -462,14 +492,14 @@
   "podcast": {
     "title": "Ep.42 沖繩全島飄滿台味 | 琉球王國被搶來搶去 | 琉球語不是日本方言 ft. K",
     "url": "https://youtu.be/-n51xXD1Qvk?si=O6B7uEVNrgHRubnb"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f8435fccc96905f5239658"
   },
   "name": "京都",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 35.0013203,
     "lng": 135.7154446
@@ -477,14 +507,14 @@
   "podcast": {
     "title": "Ep.43 京都極樂打砲度假 | 窮鬼日本關西旅遊法 | 流水素麵看得到吃不到 ft. 迪克",
     "url": "https://youtu.be/jtzY0Q7E3vY?si=JOSVqLPSbM4ub9pd"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f843fbccc96905f523965a"
   },
   "name": "火人節",
+  "continent": "北美洲",
   "coordinates": {
     "lat": 40.9107482,
     "lng": -119.0663099
@@ -492,14 +522,14 @@
   "podcast": {
     "title": "Ep.44 地表最狂嬉皮城市 Burning Man | 不知道火人節是啥就跑去拍畢製 ft. Yun",
     "url": "https://youtu.be/yJ5NYzGrFT8?si=eFVp5SibaK93Zak8"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f8445dccc96905f523965c"
   },
   "name": "古巴",
+  "continent": "北美洲",
   "coordinates": {
     "lat": 23.0509172,
     "lng": -82.4978106
@@ -507,14 +537,14 @@
   "podcast": {
     "title": "Ep.45 古巴美夢大幻滅 | 哈瓦那金玉其外? | 中美洲領隊細數旅行要訣 ft. Paco",
     "url": "https://youtu.be/T_u1VR8KtCE?si=5Vf0cRNR_3kok6En"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f845abccc96905f523965e"
   },
   "name": "台北",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 25.047761,
     "lng": 121.53185
@@ -522,14 +552,14 @@
   "podcast": {
     "title": "Ep.46 你了解自己的文化嗎 | 台北冷知識挑戰 | 越在地越國際 ft. 島內散步邱翊",
     "url": "https://youtu.be/xuHBMFJBR44?si=4wKvX6oG4aWuAKTU"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f8464accc96905f5239662"
   },
   "name": "科索沃",
+  "continent": "歐洲",
   "coordinates": {
     "lat": 42.4236691,
     "lng": 18.4660045
@@ -537,14 +567,14 @@
   "podcast": {
     "title": "Ep.47 到科索沃搞事 | 塞爾維亞是巴爾幹大魔王 | 台灣、科索沃一家親 ft. 郭家佑",
     "url": "https://youtu.be/aHK6Uh4yaig?si=G2yFqOHe7tovKnMk"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f846fbccc96905f5239664"
   },
   "name": "科威特",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 29.376101,
     "lng": 47.9612672
@@ -552,14 +582,14 @@
   "podcast": {
     "title": "Ep.48 到科威特當外籍勞工 | 種族工作決定社會階級 | 攝氏 50 度苦中作樂 ft. Ivy",
     "url": "https://youtu.be/t50CHhmwV_E?si=DMf-HR1F20R5NeCR"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f847c5ccc96905f5239666"
   },
   "name": "馬雅文明",
+  "continent": "北美洲",
   "coordinates": {
     "lat": 14.6263344,
     "lng": -90.6484526
@@ -567,14 +597,14 @@
   "podcast": {
     "title": "Ep.49 馬雅人走出 PTT 帶你迷思大破解 | 外星人、末日預言、活人獻祭 ft. 馬雅人",
     "url": "https://youtu.be/9UmFk2k5Qig?si=cVtlkJmSK9uN2CBD"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f849abccc96905f5239668"
   },
   "name": "瓦拉納西",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 25.3208949,
     "lng": 82.9087082
@@ -582,14 +612,14 @@
   "podcast": {
     "title": "Ep.50 與屍體共活的瓦拉納西 | 北印度之死 | 嬉皮城市普什卡 ft. 阿尾",
     "url": "https://youtu.be/qwZIFmj4UAA?si=mHseBuJT_xxwBKDk"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f84a94ccc96905f523966a"
   },
   "name": "猶加敦半島",
+  "continent": "北美洲",
   "coordinates": {
     "lat": 21.0799534,
     "lng": -91.2490278
@@ -597,14 +627,14 @@
   "podcast": {
     "title": "Ep.52 跟馬雅人去猶加敦半島 | 阿茲特克太陽曆法石是墨西哥長輩圖 ft. 馬雅人",
     "url": "https://youtu.be/_qN69KBU7Gw?si=rYbrebZkReFIN5-c"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f84aeeccc96905f523966c"
   },
   "name": "印度",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 20.7573931,
     "lng": 72.1110883
@@ -612,14 +642,14 @@
   "podcast": {
     "title": "Ep.53 佛系旅行者搞到在印度被軟禁 | 跟印度人比ㄎㄧㄤ的生存法則 ft. 阿尾",
     "url": "https://youtu.be/Jq1tDaIL_JQ?si=NU-cQXENlCUm5jOE"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f84b62ccc96905f5239674"
   },
   "name": "巴西",
+  "continent": "南美洲",
   "coordinates": {
     "lat": -8.547009,
     "lng": -53.346635
@@ -627,14 +657,14 @@
   "podcast": {
     "title": "Ep.54 在巴西被搶就是一回生二回熟 | 約個會就全身是傷是怎樣 ft. Wayne",
     "url": "https://youtu.be/_jQAcIXcr78?si=QCMo4xws2SSRlFfM"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f84fdaccc96905f5239678"
   },
   "name": "突尼西亞",
+  "continent": "非洲",
   "coordinates": {
     "lat": 36.794992,
     "lng": 10.0608771
@@ -642,14 +672,14 @@
   "podcast": {
     "title": "Ep.55 突尼西亞交換生見證茉莉花革命 | 約旦大學學生會選舉如戰場 ft. 奇慈飛",
     "url": "https://youtu.be/r65Ewk_QVKU?si=nkG1vcKxVvvy1CF8"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f85023ccc96905f523967a"
   },
   "name": "義大利",
+  "continent": "歐洲",
   "coordinates": {
     "lat": 41.9102088,
     "lng": 12.3711918
@@ -657,14 +687,14 @@
   "podcast": {
     "title": "Ep.56 走出觀光景點才是義大利原貌 | 改變人生的旅行 | 沒特色的城市 ft. Peter",
     "url": "https://youtu.be/TAIzm9VtduM?si=FX8LNFdHZxfvFR2A"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f86815ccc96905f523967c"
   },
   "name": "非洲",
+  "continent": "非洲",
   "coordinates": {
     "lat": -29.1196067,
     "lng": 26.058416
@@ -673,14 +703,14 @@
     "title": "Ep.57 帶老媽在非洲捲入激流漩渦 | 3.5 萬兆辛巴威幣 | 一頭牛換你 ft. 謎卡",
     "url": "https://youtu.be/E73N_zMazbw?si=0Xecp01sQFmhrSIr",
     "description": "帶爸媽出國一直是背包客心中的大挑戰，但如果第一次帶老媽出國就衝非洲，這簡直就是直接越級打怪啊！背包旅行經驗封頂的謎卡，為了怕想去非洲看動物的媽媽被坑錢，只好母女倆一同踏上非洲五國的旅途，橫跨南非、賴索托、辛巴威、莫三比克、史瓦帝尼，穿越險惡的邊界，更在維多莉亞瀑布周邊激流泛舟。到底跟長輩去非洲會發生哪些崩潰事情？出發前又有哪些心理建設呢？點擊收聽，跟著謎卡還有媽媽一起穿越非洲數千公里！"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f868a8ccc96905f5239680"
   },
   "name": "盧安達",
+  "continent": "非洲",
   "coordinates": {
     "lat": -1.929597,
     "lng": 30.0448434
@@ -688,14 +718,14 @@
   "podcast": {
     "title": "Ep.58 非洲的正確打開方式 | 走私塑膠袋到盧安達 | 一秒更了解非洲 ft. wowAfrica 阿非卡",
     "url": "https://youtu.be/eBdjq9m83xk?si=23eNgcdtZcrK4_K_"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f868f3ccc96905f5239682"
   },
   "name": "伊斯坦堡",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 41.0370175,
     "lng": 28.974792
@@ -703,14 +733,14 @@
   "podcast": {
     "title": "Ep.59 馬桶上的土耳其啟蒙 | 七丘之城伊斯坦堡 | 探索鄂圖曼小村落 ft. Iris",
     "url": "https://youtu.be/2fnI-A4m2Ck?si=0apEjy7oZQgqG2J8"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f8694dccc96905f5239684"
   },
   "name": "烏茲別克",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 41.5742764,
     "lng": 64.1506806
@@ -718,14 +748,14 @@
   "podcast": {
     "title": "Ep.60 波斯 x 突厥 x 蒙古混血的烏茲別克 | 帖木兒最後榮光撒馬爾罕 ft. Jerome",
     "url": "https://youtu.be/5qOe34whO7Y?si=9rvtinvjJ_fQbhgT"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f869d8ccc96905f5239686"
   },
   "name": "吉爾吉斯",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 41.465458,
     "lng": 74.17313
@@ -734,14 +764,14 @@
     "title": "Ep.61 中亞五國：蘇聯製造 | 翻越吉爾吉斯 | 被監控的維吾爾 ft. Jerome",
     "url": "https://youtu.be/78ILrOt2cBA?si=4vWUaqbQkryooZZP",
     "description": "聽完了上週 Jerome 一口起梳理中亞千年歷史，以及烏茲別克所見到的帖木兒帝國往日榮光，大家應該意猶未盡巴不得繼續聽下去。這次 Jerome 已經離開烏茲別克來到吉爾吉斯，一路上的旅行過程中，處處可以見到蘇聯以及中國這兩大強權在中亞的影響力：一個是過去，一個則是現在進行式，如影隨形地跟著他穿越帕米爾高原進入中國境內。蘇聯過去超過半個世紀的中亞統治留下了什麼遺產？點擊收聽，聽 Jerome 再講中亞的近代變化！"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f86a58ccc96905f523968a"
   },
   "name": "墨西哥",
+  "continent": "北美洲",
   "coordinates": {
     "lat": 23.7974568,
     "lng": -102.5219049
@@ -749,14 +779,14 @@
   "podcast": {
     "title": "Ep.62 墨西哥的 68 種官方語言 | 砲友就該從身邊找 | 墨西哥常見毒品 ft. Kyle",
     "url": "https://podcasts.apple.com/us/podcast/ep-62-%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%9A%84-68-%E7%A8%AE%E5%AE%98%E6%96%B9%E8%AA%9E%E8%A8%80-%E7%A0%B2%E5%8F%8B%E5%B0%B1%E8%A9%B2%E5%BE%9E%E8%BA%AB%E9%82%8A%E6%89%BE-%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B8%B8%E8%A6%8B%E6%AF%92%E5%93%81-ft-kyle/id1476564589?i=1000513315320"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f86ab6ccc96905f523968c"
   },
   "name": "台灣原住民",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 23.8705245,
     "lng": 121.0417796
@@ -764,14 +794,14 @@
   "podcast": {
     "title": "Ep.63 原住民族的翻白眼時刻 | 做個優質的排灣部落旅人 | 流動的身份認同 ft. Ubi",
     "url": "https://youtu.be/pOxfg2OgzYQ?si=KByEw2s3tP1liihZ"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f86b21ccc96905f523968e"
   },
   "name": "杜拜",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 25.1617115,
     "lng": 55.2264283
@@ -779,14 +809,14 @@
   "podcast": {
     "title": "Ep.64 貧窮限制了你的杜拜想像 | 沙烏地黑袍穿搭術 | 蹲點阿拉伯 ft. 奇慈飛",
     "url": "https://youtu.be/SkQsC96G4Mw?si=murVNlDltvX4AO_W"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f86df9ccc96905f5239692"
   },
   "name": "釜山",
+  "continent": "亞洲",
   "coordinates": {
     "lat": 35.1789108,
     "lng": 129.035679
@@ -794,14 +824,14 @@
   "podcast": {
     "title": "Ep.66 山 x 泉 x 海 x 河 四抱之鄉韓國釜山 | 歐巴們都吃什麼長大? ft. Alice",
     "url": "https://youtu.be/WLAaLmHkmQI?si=EDQTy3mhM2w59pGI"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f86e4fccc96905f5239694"
   },
   "name": "貝里斯",
+  "continent": "北美洲",
   "coordinates": {
     "lat": 17.2550943,
     "lng": -88.7850949
@@ -809,14 +839,14 @@
   "podcast": {
     "title": "Ep.67 中美洲邊緣人貝里斯 | 台海危機弄出貝里斯台灣村 | 國合會醫療計畫 ft. 楊雅棠",
     "url": "https://youtu.be/FrSpF3s8TTU?si=JdtKIFefO3CE72Zz"
-  },
-  "__v": 0
+  }
 },
 {
   "_id": {
     "$oid": "68f8938fccc96905f5239696"
   },
   "name": "貝里斯",
+  "continent": "北美洲",
   "coordinates": {
     "lat": 17.5046399,
     "lng": -88.2348989
@@ -824,6 +854,413 @@
   "podcast": {
     "title": "Ep.68 貝里斯海嘯驚魂 | 馬雅頭骨被相機砸爆 | 加勒比海徒手抓龍蝦 ft. 楊雅棠",
     "url": "https://youtu.be/0Vs-Cj18psw?si=xzxd8_SWVsnFQbK5"
+  }
+},
+{
+  "name": "古巴",
+  "continent": "北美洲",
+  "coordinates": {
+    "lat": 21.940216, 
+    "lng": -78.639575
   },
-  "__v": 0
+  "podcast": {
+    "title": "Ep.70 古巴平反大使來啦 | 走出哈瓦那環島古巴兩次 | 彩色小鎮千里達 ft. 愛希",
+    "url": "https://youtu.be/qd0FmDEz9ZE?si=lTHKBJzinRbjA7RH"
+  }
+},
+{
+  "name": "愛沙尼亞",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 58.8850714,
+    "lng": 25.5188523
+  },
+  "podcast": {
+    "title": "Ep.72 愛沙尼亞被德國跟蘇聯當夾心餅 | 三小國有很小嗎 | 波羅的海首部曲 ft. Misky",
+    "url": "https://youtu.be/bHCDewYFDLc?si=WAP86aWdnF7ESkCT"
+  }
+},
+{
+  "name": "加納利群島",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 28.2465801,
+    "lng": -16.6221941
+  },
+  "podcast": {
+    "title": "Ep.73 在加納利群島尋找撒哈拉的故事 | 三毛的西班牙遺物與荷西之墓 ft. 郭璨宇",
+    "url": "https://youtu.be/6u1ROx3_W_Q?si=EtmgNoiAuQvmH6P7"
+  }
+},
+{
+  "name": "里加",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 56.9552173,
+    "lng": 24.0693635
+  },
+  "podcast": {
+    "title": "Ep.74 里加的仲夏夜之夢 | 在拉脫維亞桑拿屋接生小孩 | 蘇聯特務的放風守則 | 波羅的海二部曲 ft. Misky",
+    "url": "https://youtu.be/tuSxvuticFI?si=SACCjVQYCJlfAWir"
+  }
+},
+{
+  "name": "馬拉威",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": -13.254308,
+    "lng": 34.301525
+  },
+  "podcast": {
+    "title": "Ep.75 馬拉威超 hardcore 蹲點兩年 | 啊瘧疾不就小感冒? | 一週斷水斷電三四天 ft. Jenny",
+    "url": "https://youtu.be/EKcnlle1r5s?si=z4Aa27VXZrN-YVNV"
+  }
+},
+{
+  "name": "立陶宛",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 56.9552173,
+    "lng": 24.0693635
+  },
+  "podcast": {
+    "title": "Ep.76 在立陶宛意外變成明星 | 在十字架山的中心呼喊自由 | 波羅的海三部曲 ft. Misky",
+    "url": "https://youtu.be/OlCaYsChWw4?si=0mo623WNbPYkpPnB"
+  }
+},
+{
+  "name": "泰晤士河",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 51.562834, 
+    "lng": -0.694288
+  },
+  "podcast": {
+    "title": "Ep.77 倫敦街頭隱藏景點 | 泰晤士河臭到國會休會 | 倫敦橋真的垮下來 | 幹一場史詩級的架 ft. Craig",
+    "url": "https://youtu.be/OlCaYsChWw4?si=0mo623WNbPYkpPnB"
+  }
+},
+{
+  "name": "加德滿都",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 27.717245,
+    "lng": 85.323960
+  },
+  "podcast": {
+    "title": "Ep.78 加德滿都的靈性呼喚 | 尼泊爾色彩節狂野現場 | 深山中的藏傳佛教寺廟  ft. Iris",
+    "url": "https://youtu.be/pRHp1kNOOSI?si=94W97vFL4nRJyqOL"
+  }
+},
+{
+  "name": "曼谷",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 13.7248785,
+    "lng": 100.4683016
+  },
+  "podcast": {
+    "title": "Ep.79 為了吃泰國菜到曼谷讀大學 | 泰國跨性別文化脈絡 | 潑水節消防車開噴 | 實用泰語小教學 ft. Minko",
+    "url": "https://youtu.be/nAKzOv6aNM8?si=pVOHy2zDEZk01Q8Z"
+  }
+},
+{
+  "name": "摩洛哥",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": 33.5724032,
+    "lng": -7.6693931
+  },
+  "podcast": {
+    "title": "Ep.80 風情萬種的摩洛哥 | 卡薩布蘭卡的海上清真寺 | 在撒哈拉沙漠過夜 ft. 阿慧",
+    "url": "https://youtu.be/28v8FEpXDGo?si=sClMo9FFcg4xe7V5"
+  }
+},
+{
+  "name": "瓜地馬拉",
+  "continent": "中美洲",
+  "coordinates": {
+    "lat": 14.6253583,
+    "lng": -90.5484787
+  },
+  "podcast": {
+    "title": "《中美洲特輯》瓜地馬拉留學生來啦 | 台 vs 瓜文化大衝擊 | 獨立火炬跑遍中美洲 ft. Jerusha、Mónica",
+    "url": "https://youtu.be/e1Z-WGMpJWg?si=guqW3jqx1oOf40ug"
+  }
+},
+{
+  "name": "宏都拉斯",
+  "continent": "中美洲",
+  "coordinates": {
+    "lat": 14.0846947,
+    "lng": -87.2461894
+  },
+  "podcast": {
+    "title": "《中美洲特輯》宏都拉斯留學生來啦 | 潛水聖地羅丹島 | 看一場馬雅熱血球賽 ft. Francisco",
+    "url": "https://youtu.be/_MbsnGF3nSY?si=2kZWqSWITzYulS-Z"
+  }
+},
+{
+  "name": "史瓦帝尼",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": -26.315321,
+    "lng": 31.1165855
+  },
+  "podcast": {
+    "title": "Ep.81 非洲唯一邦交國 | 挑戰史瓦帝尼勇士節 | 巫醫半裸調教 | 比人還高的蟻丘 ft. 融融歷險記 Ben",
+    "url": "https://youtu.be/hxHRhbQ_nuM?si=D_C7NzzeoDLVd5J9"
+  }
+},
+{
+  "name": "尼加拉瓜",
+  "continent": "中美洲",
+  "coordinates": {
+    "lat": 12.865416,
+    "lng": -85.207229
+  },
+  "podcast": {
+    "title": "《中美洲特輯》尼加拉瓜留學生來啦 | 來一碗鬣蜥湯 | 火山衝浪、叢林溜索 ft. Heberto",
+    "url": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E7%BE%8E%E6%B4%B2%E7%89%B9%E8%BC%AF-%E5%B0%BC%E5%8A%A0%E6%8B%89%E7%93%9C%E7%95%99%E5%AD%B8%E7%94%9F%E4%BE%86%E5%95%A6-%E4%BE%86%E4%B8%80%E7%A2%97%E9%AC%A3%E8%9C%A5%E6%B9%AF-%E7%81%AB%E5%B1%B1%E8%A1%9D%E6%B5%AA-%E5%8F%A2%E6%9E%97%E6%BA%9C%E7%B4%A2-ft-heberto/id1476564589?i=1000534420677"
+  }
+},
+{
+  "name": "倫敦",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 51.5287398,
+    "lng": -0.266403
+  },
+  "podcast": {
+    "title": "Ep.82 倫敦街頭暢遊 | 國王帶頭做內容農場 | 屠夫斜槓外科醫師 | 拿破崙的老二被到處傳閱 ft. Craig",
+    "url": "https://youtu.be/hzfLMgjNxdw?si=6yCTUtORJr0CaOEQ"
+  }
+},
+{
+  "name": "貝里斯",
+  "continent": "中美洲",
+  "coordinates": {
+    "lat": 17.2550943,
+    "lng": -88.7850949
+  },
+  "podcast": {
+    "title": "《中美洲特輯》貝里斯留學生來啦 | 我不是比利時人 | 大藍洞裡有什麼 | 最適合去貝里斯的季節 ft. Héctor",
+    "url": "https://youtu.be/Mf6-WTocprs?si=yxamXIRP_QF9wROM"
+  }
+},
+{
+  "name": "賽普勒斯",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 34.9994235,
+    "lng": 33.0927975
+  },
+  "podcast": {
+    "title": "Ep.83 我中有你、你中有我的南北賽普勒斯 | 希臘、土耳其頂尖對決 | 一分為二的首都 ft. 郭璨宇",
+    "url": "https://youtu.be/UM4fnAQ6_G4?si=J_IyzGORDavmn0vR"
+  }
+},
+{
+  "name": "澳洲",
+  "continent": "大洋洲",
+  "coordinates": {
+    "lat": -25.274398,
+    "lng": 133.775136
+  },
+  "podcast": {
+    "title": "Ep.84 非典型澳洲打工度假 | 西澳伯斯 Road Trip 指南 | 毒物天國北領地達爾文 ft. Alvin",
+    "url": "https://youtu.be/UM4fnAQ6_G4?si=J_IyzGORDavmn0vR"
+  }
+},
+{
+  "name": "伊朗",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 32.427908,
+    "lng": 53.688046
+  },
+  "podcast": {
+    "title": "Ep.85 波斯帝國嫡系傳人 | 伊朗拜火教聖火兩千年不滅 | 放莒光園地給伊斯蘭共和衛隊看 ft. David",
+    "url": "https://youtu.be/NND0elK9vdw?si=getL1fA8VQ3s3_Xo"
+  }
+},
+{
+  "name": "馬來西亞",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 4.210484,
+    "lng": 101.975766
+  },
+  "podcast": {
+    "title": "Ep.86 馬來人、華人、印度人愛恨糾葛 | 在媽媽檔碰見團結的馬來西亞 | 東馬、西馬戰起來  ft. 小植",
+    "url": "https://youtu.be/1zxIIiCNm5g?si=LMlmsl6rQ1vBCfwI"
+  }
+},
+{
+  "name": "耶路撒冷",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 31.7679787,
+    "lng": 35.2068642
+  },
+  "podcast": {
+    "title": "Ep.88  在耶路撒冷留學是尊爵不凡的享受 | 安息日真的只能安息 | 火箭來了躲去哪? ft. Ann",
+    "url": "https://youtu.be/C8YRLOpvCFo?si=GSEt8dNdFlYyOo3V"
+  }
+},
+{
+  "name": "馬來西亞",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 3.1386741,
+    "lng": 101.6045884
+  },
+  "podcast": {
+    "title": "《幕後 #13》馬來西亞嘉年華等著你 | 沙巴無敵海景、怡保自然風光 | 媽媽檔美食吃到飽",
+    "url": "https://youtu.be/5u8cphJpzE0?si=PYrqx4LP8IufzLXG"
+  }
+},
+{
+  "name": "索馬利蘭",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": 9.5481242,
+    "lng": 44.025468
+  },
+  "podcast": {
+    "title": "Ep.89 索馬利蘭與台灣惺惺相惜 | 非洲之角暗潮洶湧 | 潛入亞丁灣石油走私大港 ft. wowAfrica 韋辰",
+    "url": "https://podcasts.apple.com/us/podcast/ep-89-%E7%B4%A2%E9%A6%AC%E5%88%A9%E8%98%AD%E8%88%87%E5%8F%B0%E7%81%A3%E6%83%BA%E6%83%BA%E7%9B%B8%E6%83%9C-%E9%9D%9E%E6%B4%B2%E4%B9%8B%E8%A7%92%E6%9A%97%E6%BD%AE%E6%B4%B6%E6%B9%A7-%E6%BD%9B%E5%85%A5%E4%BA%9E%E4%B8%81%E7%81%A3%E7%9F%B3%E6%B2%B9%E8%B5%B0%E7%A7%81%E5%A4%A7%E6%B8%AF-ft-wowafrica-%E9%9F%8B%E8%BE%B0/id1476564589?i=1000542140525"
+  }
+},
+{
+  "name": "寮國",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 19.85627,
+    "lng": 102.495496
+  },
+  "podcast": {
+    "title": "Ep.90 被騙到寮國工作 | 潑水節河中辦桌 | 挑戰生青蛙泥、臭魚醬 | 跨國癡漢街頭搭訕 | Ep.1 前傳 ft. 立傑",
+    "url": "https://youtu.be/9xI1DNqHQWs?si=xqQYOX_ti3xZRVuf"
+  }
+},
+{
+  "name": "納米比亞",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": -22.5635767,
+    "lng": 16.9798253
+  },
+  "podcast": {
+    "title": "Ep.92 陪納米比亞辛巴族人回家 | 在坦尚尼亞被飛車綁架 | 跟戰鬥民族馬賽人共度良宵 ft. 愛希",
+    "url": "https://youtu.be/_j6FgtXhnko?si=6UfkepaboEE2kr6A"
+  }
+},
+{
+  "name": "瑞典",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 60.128161,
+    "lng": 18.643501
+  },
+  "podcast": {
+    "title": "Ep.93 瑞典是不是什麼都很好 | 在地球上最孤獨的國家生活 | 想發大財的不要來 ft. 瑞典劉先生 #知識宇宙探險隊串聯",
+    "url": "https://youtu.be/EWN_QoS_DeQ?si=EBR48utJn6pTfmqY"
+  }
+},
+{
+  "name": "阿曼",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 23.5829604,
+    "lng": 58.3421154
+  },
+  "podcast": {
+    "title": "Ep.94 阿拉伯半島冷門土豪阿曼 | 亂入薩滿儀式召喚撒旦 | 罩袍一脫超辣晚禮服登場 ft. J",
+    "url": "https://youtu.be/NmxmSSo-z38?si=YX4T_bHSD1bEHyq-"
+  }
+},
+{
+  "name": "麥德林",
+  "continent": "南美洲",
+  "coordinates": {
+    "lat": 6.2569389,
+    "lng": -75.630802
+  },
+  "podcast": {
+    "title": "Ep.95 到毒梟大城麥德林教語言 | 跟哥倫比亞人交朋友就是要喝 | 南美身體界線 ft. Mickey",
+    "url": "https://youtu.be/uUhz8zLiR3g?si=E7RIO1pK4otSAuAs"
+  }
+},
+{
+  "name": "巴基斯坦",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 30.375321,
+    "lng": 69.345116
+  },
+  "podcast": {
+    "title": "Ep.96 在巴基斯坦一笑就被索吻 | 沙發衝浪夜宿淫窟 | 帶槍軍人貼身跟監 | 風之谷罕薩王國 ft. 謎卡",
+    "url": "https://youtu.be/WPbfsmi501A?si=3FbIfste3hpgak6s"
+  }
+},
+{
+  "name": "暹粒",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 13.3405016,
+    "lng": 103.7805535
+  },
+  "podcast": {
+    "title": "Ep.97 到柬埔寨蓋高腳屋 | 在暹粒看見純粹的共享 | 救世主情結發作的國際志工真的有用嗎 ft. 德華",
+    "url": "https://youtu.be/c-WhvJ8l2Zk?si=UEOqPusAP1qEiojm"
+  }
+},
+{
+  "name": "奧斯陸",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 59.913868,
+    "lng": 10.752245
+  },
+  "podcast": {
+    "title": "Ep.98 奧斯陸根本不冷 | 挪威人自帶三公尺無形氣場 | 斯堪地納維亞語系怎麼學 ft. 乃森",
+    "url": "https://youtu.be/vB58Cll59Oc?si=zfUOFudXd06raWdt"
+  }
+},
+{
+  "name": "印度",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 20.593684,
+    "lng": 78.96288
+  },
+  "podcast": {
+    "title": "Ep.99 印度工作三年結果成為在地媳婦 | 教育能翻轉種姓、社會階級嗎 | 亂入賈特人暴動 ft. Ping",
+    "url": "https://youtu.be/1NQQ7otXvkE?si=831J0XAtxmltRh4B"
+  }
+},
+{
+  "name": "印度",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 22.72411,
+    "lng": 75.781449
+  },
+  "podcast": {
+    "title": "Ep.99S Ping 又來！華語教師在印度被羞辱到哭 | 印地語啦什麼印度話 | 學習外語的私房訣竅 ft. Ping",
+    "url": "https://youtu.be/heYEQHMyyq8?si=UoVj0G2IOEoijwsZ"
+  }
+},
+{
+  "name": "布拉格",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 50.075538,
+    "lng": 14.4378
+  },
+  "podcast": {
+    "title": "Ep.100 布拉格的盛世美顏 | 到捷克小心被人丟出窗外 | 從波希米亞、奧匈帝國到蘇聯鐵幕最前線",
+    "url": "https://podcasts.apple.com/tw/podcast/ep-100-%E5%B8%83%E6%8B%89%E6%A0%BC%E7%9A%84%E7%9B%9B%E4%B8%96%E7%BE%8E%E9%A1%8F-%E5%88%B0%E6%8D%B7%E5%85%8B%E5%B0%8F%E5%BF%83%E8%A2%AB%E4%BA%BA%E4%B8%9F%E5%87%BA%E7%AA%97%E5%A4%96-%E5%BE%9E%E6%B3%A2%E5%B8%8C%E7%B1%B3%E4%BA%9E-%E5%A5%A7%E5%8C%88%E5%B8%9D%E5%9C%8B%E5%88%B0%E8%98%87%E8%81%AF%E9%90%B5%E5%B9%95%E6%9C%80%E5%89%8D%E7%B7%9A/id1476564589?i=1000554136884"
+  }
 }]
