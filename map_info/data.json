@@ -1263,4 +1263,136 @@
     "title": "Ep.100 布拉格的盛世美顏 | 到捷克小心被人丟出窗外 | 從波希米亞、奧匈帝國到蘇聯鐵幕最前線",
     "url": "https://podcasts.apple.com/tw/podcast/ep-100-%E5%B8%83%E6%8B%89%E6%A0%BC%E7%9A%84%E7%9B%9B%E4%B8%96%E7%BE%8E%E9%A1%8F-%E5%88%B0%E6%8D%B7%E5%85%8B%E5%B0%8F%E5%BF%83%E8%A2%AB%E4%BA%BA%E4%B8%9F%E5%87%BA%E7%AA%97%E5%A4%96-%E5%BE%9E%E6%B3%A2%E5%B8%8C%E7%B1%B3%E4%BA%9E-%E5%A5%A7%E5%8C%88%E5%B8%9D%E5%9C%8B%E5%88%B0%E8%98%87%E8%81%AF%E9%90%B5%E5%B9%95%E6%9C%80%E5%89%8D%E7%B7%9A/id1476564589?i=1000554136884"
   }
+},
+{
+  "name": "墨西哥",
+  "continent": "中美洲",
+  "coordinates": {
+    "lat": 32.4449479,
+    "lng": -113.7411059
+  },
+  "podcast": {
+    "title": "Ep.101 死在墨西哥亡靈節 | 不只是嘉年華的阿茲特克生死智慧 | 死前的一瞬間你會想什麼? ft. 謎卡",
+    "url": "https://youtu.be/k2ECZYksrMA?si=gIImxbFopLlKipkx"
+  }
+},
+{
+  "name": "肯亞",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": -1.2931467,
+    "lng": 36.8209395
+  },
+  "podcast": {
+    "title": "Ep.102 在肯亞騎腳踏車追動物大遷徙 | 流連坦尚尼亞三蘭港賭場 | 東非鐵路三天兩夜 ft. 康康",
+    "url": "https://youtu.be/-lNdPKtII20?si=934Ejnu9JRgJVX7p"
+  }
+},
+{
+  "name": "蘇格蘭",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 56.4906712,
+    "lng": -4.202646
+  },
+  "podcast": {
+    "title": "Ep.103 蘇格蘭幹嘛要獨立 | 愛丁堡就是英國台南 | 不穿內褲才是正裝? | 尋找佛地魔之墓 ft. Luka",
+    "url": "https://youtu.be/7yF-unMKXiQ?si=HcZCL2YIbnXThE3Z"
+  }
+},
+{
+  "name": "摩洛哥",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": 32.3309701,
+    "lng": -6.4144285
+  },
+  "podcast": {
+    "title": "Ep.104 千萬不要在摩洛哥暈船 | 撒哈拉沙漠裡也可以炒地皮 | 人人 30 公分的夢幻國度? ft. 唐宏安",
+    "url": "https://youtu.be/f88tRGYSla8?si=qE2jTB_QIe74njZv"
+  }
+},
+{
+  "name": "南非",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": -26.1808827,
+    "lng": 28.0216812
+  },
+  "podcast": {
+    "title": "Ep.105 在約翰尼斯堡街頭被 17 個人圍毆 | 南非最大貧民窟內建高空彈跳 | 兩個人、一把槍共度草原一晚 ft. 融融歷險記 Ben",
+    "url": "https://youtu.be/bVoUWqFuDB0?si=lU3Wn1t-nyhLlTVt"
+  }
+},
+{
+  "name": "塞族共和國",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 43.8617448,
+    "lng": 18.3980306
+  },
+  "podcast": {
+    "title": "Ep.106 波赫的巴爾幹國中之國：塞族共和國 | 南斯拉夫亂成一鍋粥 | 塞拉耶佛如何引爆一戰 ft. 郭璨宇",
+    "url": "https://youtu.be/VcLcRzD7V2U?si=VnBITxBXBk6I5YG7"
+  }
+},
+{
+  "name": "史瓦帝尼",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": -26.3152629,
+    "lng": 31.0592455
+  },
+  "podcast": {
+    "title": "Ep.107 到史瓦帝尼王宮居家看診 | 感染科醫師外派非洲等於砍掉重練? | 生活在墨巴本 ft. 北醫醫療團陳立遠醫師",
+    "url": "https://youtu.be/59dlRmIE7TM?si=_z9wW2Vk6mCvOMY2"
+  }
+},
+{
+  "name": "英國",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 53.4722462,
+    "lng": -2.3793459
+  },
+  "podcast": {
+    "title": "Ep.108 英國女王即位七十週年特輯 | 伊莉莎白的鄉野奇譚 | 女王養成指南大公開 ft. Craig",
+    "url": "https://youtu.be/D-2ZZKWfE8Q?si=ulWdMr2o_wQftNqa"
+  }
+},
+{
+  "name": "英國",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 51.4994827,
+    "lng": -0.1273841
+  },
+  "podcast": {
+    "title": "Ep.109 愛搞事的王室成員懶人包 | 黛安娜之死、查爾斯的春夢、玫瑰王子安德魯怎麼了 | 生而為大英王室 ft. Craig",
+    "url": "https://youtu.be/ywomBkLxTGA?si=UNbmLXSDd5PEexdp"
+  }
+},
+{
+  "name": "模里西斯",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": -20.286012, 
+    "lng": 57.560871
+  },
+  "podcast": {
+    "title": "Ep.111 成長在天堂的原型：模里西斯我的家 | 印度、華人、克里奧、歐裔大混雜的印度洋小島 ft. Cindy",
+    "url": "https://youtu.be/-IbWWm4XFxI?si=zQda0CZ17Dk-qSou"
+  }
+},
+{
+  "name": "盧安達",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": -1.9475037,
+    "lng": 30.0577123
+  },
+  "podcast": {
+    "title": "Ep.112 歡迎光臨盧安達大飯店 | 非洲版復仇者聯盟 | 一百天殺一百萬人 | 28 年後盧安達現在怎麼了 ft. 強尼",
+    "url": "https://youtu.be/MqfAmJ1lQK4?si=JPn-dy-h78LgMlzA"
+  }
 }]
