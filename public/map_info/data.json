@@ -1395,4 +1395,292 @@
     "title": "Ep.112 歡迎光臨盧安達大飯店 | 非洲版復仇者聯盟 | 一百天殺一百萬人 | 28 年後盧安達現在怎麼了 ft. 強尼",
     "url": "https://youtu.be/MqfAmJ1lQK4?si=JPn-dy-h78LgMlzA"
   }
+},
+{
+  "name": "南極",
+  "continent": "南極洲",
+  "coordinates": {
+    "lat": -90.000000,
+    "lng": 0.000000
+  },
+  "podcast": {
+    "title": "Ep.113 從世界的盡頭烏斯懷亞出發南極 | 結果南極熱到爆 | 企鵝高速公路大塞車 ft. Jenny",
+    "url": "https://youtu.be/RXdmfu82rGk?si=pTZb3n9a9nrEjl1B"
+  }
+},
+{
+  "name": "伊朗",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 32.481215, 
+    "lng": 54.526310
+  },
+  "podcast": {
+    "title": "Ep.114 非經典伊朗路線 | 波斯客套文化你不要當真 | 薛西斯大帝的萬國之門再現 ft. 康康",
+    "url": "https://open.spotify.com/episode/1VDEVnpUhmab6Mt5zxGTL2"
+  }
+},
+{
+  "name": "馬尼拉",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 14.600408,
+    "lng": 120.984569
+  },
+  "podcast": {
+    "title": "Ep.115 馬尼拉街頭生存指南 | 帶著特權在菲律賓生活 | 地表最古老的千年中國城 ft. Sophia",
+    "url": "https://youtu.be/kXVr8l-n3Qs?si=CTqkesgOzMGp75ik"
+  }
+},
+{
+  "name": "印度",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 12.9703045,
+    "lng": 77.5421515
+  },
+  "podcast": {
+    "title": "Ep.116 解鎖南印度：印度南北戰起來 | 住 Airbnb 直接變住院 | 哪些南亞料理吃過就回不去了? ft. Fred",
+    "url": "https://youtu.be/gmQImKqp6hQ?si=IzKFf8Ue1vUxjQ8h"
+  }
+},
+{
+  "name": "德國",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 50.725429,
+    "lng": 10.469621
+  },
+  "podcast": {
+    "title": "Ep.117 德國老菜鳥的生活觀察 | 守時、嚴謹、冷淡、美食沙漠？德國迷思全破解 ft. 恬恬",
+    "url": "https://youtu.be/Jbm6Iqw1jWU?si=BTO8DTo_JFfbqtOj"
+  }
+},
+{
+  "name": "烏干達",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": 0.3149971,
+    "lng": 32.5816501
+  },
+  "podcast": {
+    "title": "Ep.118 化身疫苗戰士遠征非洲 | 烏干達女人要跟男人下跪? | 烏干達人的撩妹絕招 ft. 連怡涵",
+    "url": "https://youtu.be/ys3EG1CLR9Y?si=3M6Y_osACCvptrDR"
+  }
+},
+{
+  "name": "爪哇島",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": -7.407645,
+    "lng": 110.232794
+  },
+  "podcast": {
+    "title": "Ep.119 背包客想不開去創業 | 幫爪哇島村長拚選舉 | 跟著超屌的朋友一起出國玩 ft. 阿勳 & 九十路公車",
+    "url": "https://youtu.be/hHuRXgOk_pE?si=N3UtEJHP56LS382Z"
+  }
+},
+{
+  "name": "土耳其",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 39.9035233,
+    "lng": 32.5979583
+  },
+  "podcast": {
+    "title": "Ep.120 土耳其根本超不兼容並蓄 | 伊斯坦堡 diss 大會 | 世俗與伊斯蘭價值大對決 ft. Carol",
+    "url": "https://youtu.be/JTTHINbugZc?si=Tkn0RqAqk9Tb5gMp"
+  }
+},
+{
+  "name": "巴拉圭",
+  "continent": "南美洲",
+  "coordinates": {
+    "lat": -23.4429,
+    "lng": -58.4438
+  },
+  "podcast": {
+    "title": "Ep.121 巴拉圭留學生來啦！跟台灣距離最遙遠的國家 | 被台灣人嚇到? | 巴拉圭的湯怎麼有點硬 ft. Héctor Alfonso",
+    "url": "https://youtu.be/U59E2R93fDU?si=EBYBrNrl_jCG-9vc"
+  }
+},
+{
+  "name": "土耳其",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 40.9994597,
+    "lng": 28.9529138
+  },
+  "podcast": {
+    "title": "Ep.122 厄多安想讓土耳其 great again | 西亞首爾：伊斯坦堡 | 土耳其詐騙手法破解 | 東南西北走一遍 ft. Carol",
+    "url": "https://podcasts.apple.com/tw/podcast/ep-122-%E5%8E%84%E5%A4%9A%E5%AE%89%E6%83%B3%E8%AE%93%E5%9C%9F%E8%80%B3%E5%85%B6-great-again-%E8%A5%BF%E4%BA%9E%E9%A6%96%E7%88%BE-%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%A0%A1-%E5%9C%9F%E8%80%B3%E5%85%B6%E8%A9%90%E9%A8%99%E6%89%8B%E6%B3%95%E7%A0%B4%E8%A7%A3-%E6%9D%B1%E5%8D%97%E8%A5%BF%E5%8C%97%E8%B5%B0%E4%B8%80%E9%81%8D/id1476564589?i=1000580839033"
+  }
+},
+{
+  "name": "土庫曼",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 37.9633633,
+    "lng": 58.0854774
+  },
+  "podcast": {
+    "title": "Ep.123 中亞神秘國家土庫曼 = 拉斯維加斯 + 北韓？ | 跟政府高官們一起開跨年趴！ ft. Winny",
+    "url": "https://youtu.be/I2lG4jGaMiQ?si=_Opa-ljCHuFm5X5M"
+  }
+},
+{
+  "name": "巴西",
+  "continent": "南美洲",
+  "coordinates": {
+    "lat": -22.9189495,
+    "lng": -43.4271528
+  },
+  "podcast": {
+    "title": "Ep.124 愛美又容貌焦慮的巴西人為什麼活在當下? | 里約、聖保羅的瑜亮情結 | 屁股練好再來里約啦 ft. 約克",
+    "url": "https://youtu.be/V3HWu26HC3w?si=5tUPAZdfVIQYcIVv"
+  }
+},
+{
+  "name": "西伯利亞",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 60.0,
+    "lng": 100.0
+  },
+  "podcast": {
+    "title": "Ep.125 把自己流放到西伯利亞 | 零下 40 度的俄羅斯生活 | 西伯利亞的刻板印象都是真的 ft. Jessica",
+    "url": "https://youtu.be/0k0oMRZxuaE?si=ES7NXI7QCQwbSEMW"
+  }
+},
+{
+  "name": "埃及",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": 27.3114141,
+    "lng": 30.9611846
+  },
+  "podcast": {
+    "title": "Ep.247 河輪暢遊尼羅河 | 一秒愛上亞歷山卓 | 撒哈拉、西奈半島、紅海：25 天在埃及 ft. Hojin",
+    "url": "https://youtu.be/CncomK_CDs8?si=ozqG_-qtIWKPpMpu"
+  }
+},
+{
+  "name": "聖克里斯多福及尼維斯",
+  "continent": "中美洲",
+  "coordinates": {
+    "lat": 17.341789,
+    "lng": -62.766222
+  },
+  "podcast": {
+    "title": "Ep.126 這邊有一批聖克里斯多福及尼維斯的護照好便宜啊 | 愛 ྾ 和平 ྾ 大麻 | 嘉年華大跳交配舞 ft. Andy",
+    "url": "https://youtu.be/QyVS1zB9Mys?si=oZhJ8Bj3VLB08uVo"
+  }
+},
+{
+  "name": "查德",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": 14.716687,
+    "lng": 18.55636
+  },
+  "podcast": {
+    "title": "Ep.127 外派到中非的內戰最前線 | 在查德上班人人爭奇鬥豔 | 街頭拍照飛來橫禍? ft. 旅行作家吳文捷",
+    "url": "https://youtu.be/-2bf3JEsHcE?si=9SJlYcC3-xAjVbKi"
+  }
+},
+{
+  "name": "拉達克",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 34.533350,
+    "lng": 77.308807
+  },
+  "podcast": {
+    "title": "Ep.128 把心留在北北印拉達克 | 流亡西藏文化在印度 | 早上起床看見達賴喇嘛 ft. 謝振允 aka 氂牛",
+    "url": "https://youtu.be/injiyvzc688?si=PZs45No5o02m500x"
+  }
+},
+{
+  "name": "巴基斯坦",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 30.1862556,
+    "lng": 71.4784429
+  },
+  "podcast": {
+    "title": "Ep.129 挑戰 0 元暢遊巴基斯坦 | 在白沙瓦當蹭飯女王 | AK47 衝鋒槍工廠產線一條龍 ft. Miya",
+    "url": "https://youtu.be/o9P66FA8Tc0?si=9PquuFOx0pfNQlBw"
+  }
+},
+{
+  "name": "香港",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 22.435173,
+    "lng": 114.148313
+  },
+  "podcast": {
+    "title": "《特別篇》不可能開台到現在才第一次講香港吧 | 寫信營救政治犯真的有用嗎? ft. 李芃萱 & 國際特赦組織",
+    "url": "https://podcasts.apple.com/ch/podcast/特別篇-不可能開台到現在才第一次講香港吧-寫信營救政治犯真的有用嗎-ft-李芃萱-國際特赦組織/id1476564589?i=1000587580986"
+  }
+},
+{
+  "name": "匈牙利",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 47.4894258,
+    "lng": 19.0396368
+  },
+  "podcast": {
+    "title": "Ep.130 走出布達佩斯探索匈牙利 | 進化的獨裁者斜槓歐盟流氓 | 被巫婆拿拐杖打蛋蛋? ft. Neo aka TC",
+    "url": "https://youtu.be/33OgvyF6ano?si=l3RuafshTXPQW7cg"
+  }
+},
+{
+  "name": "韓國",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 37.540627,
+    "lng": 127.015059
+  },
+  "podcast": {
+    "title": "Ep.131 韓國飲酒文化喝到你怕 | 在首爾慢活也能很開心 | 只適合旅行不適合久居的社會? ft. Iris",
+    "url": "https://youtu.be/kchCrHGJ4Io?si=req_FRoOn8z6765p"
+  }
+},
+{
+  "name": "伊朗",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 32.295669,
+    "lng": 55.493080
+  },
+  "podcast": {
+    "title": "Ep.132 說說伊朗、說說西亞 | 不要再說以巴是宗教衝突了 | 伊朗議題的正確打開方式 ft. 一刻鯨選 張育軒老師",
+    "url": "https://youtu.be/y1zi-Eo2ibg?si=gWuikEn32tndQaBL"
+  }
+},
+{
+  "name": "摩洛哥",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": 35.7593503,
+    "lng": -5.8341524
+  },
+  "podcast": {
+    "title": "Ep.133 歷史下酒菜 ྾ 伊本巴圖塔的奇妙冒險 | 蹭飯 28 年，穿越歐亞非 117,000 公里 ft. Wendy",
+    "url": "https://youtu.be/kfkCKDcYVAU?si=aheN1cd2gW8C96CM"
+  }
+},
+{
+  "name": "奧斯威辛集中營",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 50.0293943,
+    "lng": 19.20292
+  },
+  "podcast": {
+    "title": "Ep.134 勞動帶來自由：軸心國三巨頭的奧斯威辛集中營之旅 | 該怎麼跟德國人聊納粹? ft. 阿文",
+    "url": "https://youtu.be/PdAxbj0d6ZM?si=A-tPPHF3V-gCUVmg"
+  }
 }]
