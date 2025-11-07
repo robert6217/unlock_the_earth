@@ -1683,4 +1683,76 @@
     "title": "Ep.134 勞動帶來自由：軸心國三巨頭的奧斯威辛集中營之旅 | 該怎麼跟德國人聊納粹? ft. 阿文",
     "url": "https://youtu.be/PdAxbj0d6ZM?si=A-tPPHF3V-gCUVmg"
   }
+},
+{
+  "name": "亞瑪爾半島",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 69.9949506,
+    "lng": 69.9859611
+  },
+  "podcast": {
+    "title": "Ep.135 空降亞瑪爾半島找尋涅涅茨薩滿 | 在俄羅斯幫全村看病 | 北極圈一日郵差體驗 ft. Raphael",
+    "url": "https://youtu.be/Tm6hMDGat1g?si=UeZmL58hFu5U1eHq"
+  }
+},
+{
+  "name": "約旦",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 31.9429215,
+    "lng": 35.8973455
+  },
+  "podcast": {
+    "title": "Ep.137 無痛融入安曼生活 | 別在約旦讓你的家族丟臉 | 超愛面子的阿拉伯人 ft. Sophie",
+    "url": "https://youtu.be/7NcsBKwMQ9w?si=eaN6ia8aj1yL_Old"
+  }
+},
+{
+  "name": "塞內加爾",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": 14.746289,
+    "lng": -14.856257
+  },
+  "podcast": {
+    "title": "Ep.138 把最好的青春留在塞內加爾 | 清真寺、摔角館都 Made in China | 滿街路人集體發呆? ft. Lucien",
+    "url": "https://youtu.be/i-ZJG0iX_BQ?si=rCk4X41itIxqUsGa"
+  }
+},
+{
+  "name": "敘利亞",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 34.802075,
+    "lng": 38.996815
+  },
+  "podcast": {
+    "title": "Ep.139 重返內戰前夕天堂般的敘利亞 | 入住大馬士革貧民窟 | 差點成為穆斯林 ft. 旅行快門 Firas",
+    "url": "https://podcasts.apple.com/tw/podcast/ep-139-重返內戰前夕天堂般的敘利亞-入住大馬士革貧民窟-差點成為穆斯林-ft-旅行快門-firas/id1476564589?i=1000598543000"
+  }
+},
+{
+  "name": "寮國",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 14.802075,
+    "lng": 105.996815
+  },
+  "podcast": {
+    "title": "Ep.140 背包橫越寮國東南部 | 四千美島激流泛舟！意外發現的復古城市沙灣那吉 ft. Yoyo",
+    "url": "https://youtu.be/g63-TtYzLus?si=AkEPvshdsbfGwwHc"
+  }
+},
+{
+  "name": "北京",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 39.9087305,
+    "lng": 116.3870893
+  },
+  "podcast": {
+    "title": "Ep.248 入住明朝永樂北京老胡同 | 紫禁城內外兩個世界 | 天安門、中南海、景山公園 ft. Dahu",
+    "url": "https://youtu.be/JLXAG7tkQ64?si=J6oeCKbJJBsxdByX"
+  }
 }]
