@@ -1755,4 +1755,124 @@
     "title": "Ep.248 入住明朝永樂北京老胡同 | 紫禁城內外兩個世界 | 天安門、中南海、景山公園 ft. Dahu",
     "url": "https://youtu.be/JLXAG7tkQ64?si=J6oeCKbJJBsxdByX"
   }
+},
+{
+  "name": "厄瓜多",
+  "continent": "南美洲",
+  "coordinates": {
+    "lat": -0.1862502,
+    "lng": -78.5953476
+  },
+  "podcast": {
+    "title": "《幕後 #21》邱庭萱從厄瓜多回來啦 | 游尚傑變成鳳小岳鐵粉 | 確診又被蜜蜂叮爆",
+    "url": "https://youtu.be/x453IZ1ElvI?si=iHyt2IdwZEy3aoGl"
+  }
+},
+{
+  "name": "永珍",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 17.976372,
+    "lng": -102.625623
+  },
+  "podcast": {
+    "title": "Ep.141 在永珍摔車、被劫財劫色、還差點被烙人圍毆? | 湄公河上的泰寮邊境漂流 ft. Yoyo",
+    "url": "https://youtu.be/ae-PE7tcjoY?si=kzDsOEWvAM-rsHeT"
+  }
+},
+{
+  "name": "馬祖",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 26.151971,
+    "lng": 119.937665
+  },
+  "podcast": {
+    "title": "Ep.142 當兵意外解鎖馬祖的閩東文化 | 在南竿、北竿島晃了一整年 | 充滿直男臭的一集 ft. 晉弘",
+    "url": "https://youtu.be/CB0GdMM4dbc?si=0bfyTgLUFzHSSz7Q"
+  }
+},
+{
+  "name": "馬祖",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 28.530018,
+    "lng": 83.867700
+  },
+  "podcast": {
+    "title": "Ep.143 登山新手能爬尼泊爾 ABC 嗎 | 雨季 10 天暴走 200 公里 | 被螞蟥吸好吸滿全身血 ft. Kai",
+    "url": "https://youtu.be/Gkwbug52AcU?si=VGHV02PbIob_XgsG"
+  }
+},
+{
+  "name": "摩洛哥",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": 32.451805,
+    "lng": -6.237996
+  },
+  "podcast": {
+    "title": "《明信片 #33+34》跑到摩洛哥做志工結果上了當地綜藝節目 | 到荷蘭嗑大麻嗑到差點命喪浴缸",
+    "url": "https://youtu.be/-Suhs4q5kwA?si=dwbc_93cqK2XR8Oj"
+  }
+},
+{
+  "name": "荷蘭",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 52.3729,
+    "lng": 4.8935241
+  },
+  "podcast": {
+    "title": "《明信片 #33+34》跑到摩洛哥做志工結果上了當地綜藝節目 | 到荷蘭嗑大麻嗑到差點命喪浴缸",
+    "url": "https://youtu.be/-Suhs4q5kwA?si=dwbc_93cqK2XR8Oj"
+  }
+},
+{
+  "name": "埃及",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": 30.600237,
+    "lng": 31.201305
+  },
+  "podcast": {
+    "title": "Ep.144 埃及沒有埃及人 | 拉美西斯二世是超級自戀狂 | 埃及冷知識你知道多少 ft. Iris",
+    "url": "https://youtu.be/iEKJKMaPzmQ?si=UMtIBSsmJxXq_PbH"
+  }
+},
+{
+  "name": "喀什米爾",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 33.6889652,
+    "lng": 75.6483682
+  },
+  "podcast": {
+    "title": "Ep.145 一國 N 制下的喀什米爾 | 印度、中國、巴基斯坦邊境最前線 | 印度一點都不能少? ft. 阿文",
+    "url": "https://youtu.be/VVNMLcVfML8?si=edkbyT6zBtVEU2SX"
+  }
+},
+{
+  "name": "埃及",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": 30.4589526,
+    "lng": 31.1678221
+  },
+  "podcast": {
+    "title": "Ep.146 跑到伊斯蘭世界學肚皮舞 | cue 埃及人跳舞的方法 | 用最台的方式詮釋中東舞蹈 ft. 邵震宇",
+    "url": "https://youtu.be/HvzRizJhNSg?si=9LKlL3S_DJ3hYEbe"
+  }
+},
+{
+  "name": "喬治亞",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 42.155658,
+    "lng": 43.524613
+  },
+  "podcast": {
+    "title": "Ep.148 高加索戰神喬治亞 | 史達林是喬治亞之光… 嗎? | 高加索三國為什麼片刻不得安寧 ft. Winny",
+    "url": "https://youtu.be/Nt1Dy_q8pjs?si=FUwQgFQnrmO4KYHq"
+  }
 }]
