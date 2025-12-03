@@ -2295,4 +2295,388 @@
     "title": "Ep.183 西班牙為何幾千人就能打倒阿茲特克帝國？大航海時代的美洲悲歌 | 現場試喝 Smoky Tequila ft. Mavis",
     "url": "https://youtu.be/usPl4ezf2zo?si=aNNIT_tOUPvz-_0N"
   }
+},
+{
+  "name": "金邊",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 11.5595617,
+    "lng": 104.925856
+  },
+  "podcast": {
+    "title": "Ep.185 跟柬埔寨人結婚怎麼這麼難 | 西港為何淪為詐騙之都 | 金邊中產階級的生活樣態 ft. 倫斯",
+    "url": "https://youtu.be/7wkoDjAwcrE?si=aP-lTY-UqIL36wmC"
+  }
+},
+{
+  "name": "熊野古道",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 33.7851292,
+    "lng": 135.5060715
+  },
+  "podcast": {
+    "title": "Ep.186 死心吧朝聖之路上脫單是不可能的 | 徒步旅行仔的熊野古道 | 朝聖之路戒斷症狀自救會 ft. 凱西女孩",
+    "url": "https://youtu.be/MgZ-0GZUXk8?si=6ctAhKNs7OOqdPm-"
+  }
+},
+{
+  "name": "喀拉拉邦",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 10.5659381,
+    "lng": 76.2483133
+  },
+  "podcast": {
+    "title": "Ep.187 括約肌在印度受到艱鉅挑戰 | 為了論文跑到喀拉拉邦 Long Stay | 阿育吠陀療程速成法",
+    "url": "https://youtu.be/gKUo3FOW26I?si=92gGaUJNq5PByNKk"
+  }
+},
+{
+  "name": "英格蘭",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 50.8933192,
+    "lng": -1.1092395
+  },
+  "podcast": {
+    "title": "Ep.188 奇幻的巨石陣夏至狂歡趴 | 英格蘭南部的童話之路縱走 | 今天終於讓我們踏出倫敦 ft. 大飛",
+    "url": "https://youtu.be/D0-_P3QlW2Q?si=NqKaBOo_5Fjcn06r"
+  }
+},
+{
+  "name": "烏干達",
+  "continent": "非洲",
+  "coordinates": {
+    "lat": 1.4768131,
+    "lng": 32.264379
+  },
+  "podcast": {
+    "title": "Ep.189 與烏干達人的 Dating 日記 | 東非澱粉便當轟炸 | 如何跟坎帕拉人打成一片? ft. 尹蓉",
+    "url": "https://youtu.be/1wrXrvXwYkg?si=y1XhpZnOJr7x9xgR"
+  }
+},
+{
+  "name": "澳洲",
+  "continent": "大洋洲",
+  "coordinates": {
+    "lat": -25.274398,
+    "lng": 133.775136
+  },
+  "podcast": {
+    "title": "Ep.190 澳洲打工度假的人類觀察家 | 重啟人生的機會 | 澳打 drama 沒有最瘋只有更瘋 ft. 國峰",
+    "url": "https://youtu.be/0uRRZJJy_-0?si=0L8XZs5URcjiS-Se"
+  }
+},
+{
+  "name": "緬甸",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 21.9162218,
+    "lng": 95.9562236
+  },
+  "podcast": {
+    "title": "Ep.191 政變後的緬甸是什麼光景? | 武裝衝突區的難民夜市 | 內戰期間的旅行指南 ft. 小蔡",
+    "url": "https://youtu.be/ekcAXVWWf-s?si=lN0h23k50vBq0zJD"
+  }
+},
+{
+  "name": "秘魯",
+  "continent": "南美洲",
+  "coordinates": {
+    "lat": -9.189967,
+    "lng": -75.015152
+  },
+  "podcast": {
+    "title": "Ep.192 被旅伴丟包的拉丁美洲之旅 | 秘魯住院生還記 | 加入墨西哥亡靈節的家族守夜 ft. Judy",
+    "url": "https://youtu.be/Gef3zTYLhTA?si=shFt6l2ngt0EzS5x"
+  }
+},
+{
+  "name": "紐西蘭",
+  "continent": "大洋洲",
+  "coordinates": {
+    "lat": -40.900557,
+    "lng": 174.885971
+  },
+  "podcast": {
+    "title": "Ep.193 每個紐西蘭人都必須學毛利語 | 冰川嚮導歷險記 | 南島規模 8 地震三百年期限將至? ft. Max",
+    "url": "https://youtu.be/Q17Be8fDq2Y?si=sFJfCuVObZWYvxJ8"
+  }
+},
+{
+  "name": "捷克",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 50.0755381,
+    "lng": 14.4378005
+  },
+  "podcast": {
+    "title": "Ep.194 捷克實驗小學怎麼教小孩? | 捷克、斯洛伐克的邊境漫遊 | 重返中世紀歐陸生活 ft. 行旅調調 Chelle",
+    "url": "https://youtu.be/AZFopSPNids?si=uF15saWJjOb5oRYE"
+  }
+},
+{
+  "name": "峇里島",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": -8.340539,
+    "lng": 115.092003
+  },
+  "podcast": {
+    "title": "Ep.195 Yoyo 對峇里島完全改觀！ | 印尼群島中最獨特的存在 | 魂斷峇里島庫塔大爆炸 ft. Yoyo",
+    "url": "https://youtu.be/rDeRuJeJthA?si=ofYLwzA4mAkd_Wa7"
+  }
+},
+{
+  "name": "吉隆坡",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 3.139003,
+    "lng": 101.686855
+  },
+  "podcast": {
+    "title": "《明信片 #49+50》成為吉隆坡獨立廣場最美的風景 | 在斯里蘭卡被僧侶瘋狂示愛",
+    "url": "https://youtu.be/o2SGERcxomE?si=wJEedDVN-_zjRRtX"
+  }
+},
+{
+  "name": "斯里蘭卡",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 7.873054,
+    "lng": 80.771797
+  },
+  "podcast": {
+    "title": "《明信片 #49+50》成為吉隆坡獨立廣場最美的風景 | 在斯里蘭卡被僧侶瘋狂示愛",
+    "url": "https://youtu.be/o2SGERcxomE?si=wJEedDVN-_zjRRtX"
+  }
+},
+{
+  "name": "伊真火山",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": -8.0587806,
+    "lng": 114.2321135
+  },
+  "podcast": {
+    "title": "Ep.196 跟著爪哇島礦工登頂伊真火山採硫磺 | 被葬送の印尼首都：從雅加達到努山塔拉 ft. Yoyo",
+    "url": "https://youtu.be/yj1iSuxJTF0?si=chYHkgn6WlF8667o"
+  }
+},
+{
+  "name": "亞塞拜然",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 40.143105,
+    "lng": 47.576927
+  },
+  "podcast": {
+    "title": "Ep.197 亞塞拜然的波斯、突厥傳承 | 納卡 2024 滅國全紀錄 | 被遣返慘成高加索國際人球 ft. 強尼",
+    "url": "https://youtu.be/FodCncP9fdQ?si=_xhmB4RuvERsjnrh"
+  }
+},
+{
+  "name": "北海道",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 43.380944,
+    "lng": 142.544312
+  },
+  "podcast": {
+    "title": "Ep.198 日本打工度假的東京之戀 | 北海道牧場物語 | 打工度假菜鳥 6 年蛻變過程 ft. 凱西",
+    "url": "https://youtu.be/1RZ1IRMIWM0?si=AzdFE84nAUCShO4L"
+  }
+},
+{
+  "name": "新加坡",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 1.352083,
+    "lng": 103.819839
+  },
+  "podcast": {
+    "title": "Ep.199 新加坡把模擬城市玩到滿等 | 異鄉人該怎麼融入 | 新加坡人最愛台灣政治 ft. Shelly",
+    "url": "https://youtu.be/R_cw4uWkjuE?si=22LLDxQlihfy-P81"
+  }
+},
+{
+  "name": "加拉巴哥群島",
+  "continent": "南美洲",
+  "coordinates": {
+    "lat": -0.953769,
+    "lng": -90.965606
+  },
+  "podcast": {
+    "title": "Ep.200 達爾文在加拉巴哥群島流連忘返完全合理 | 人與自然共享的島嶼 | 邱庭萱來還厄瓜多的債了",
+    "url": "https://youtu.be/MlOtbU8Thkk?si=tURIVPHeNtEf7Ktx"
+  }
+},
+{
+  "name": "約旦",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 31.945367,
+    "lng": 35.928372
+  },
+  "podcast": {
+    "title": "Ep.201 約旦自駕爆胎在沙漠中央 | 佩特拉古城前世今生 | 在死海不要放屁之外的注意事項 ft. Iris",
+    "url": "https://youtu.be/sftxQNxzmNs?si=ue9JSbumowZ9t77z"
+  }
+},
+{
+  "name": "巴黎",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 48.856613,
+    "lng": 2.352222
+  },
+  "podcast": {
+    "title": "Ep.202 巴黎人的定義是什麼? 七年青春 in 巴黎 | 法國人工作超認真又保守 | 流動的饗宴 ft. Carlton",
+    "url": "https://youtu.be/nkFRh9ahqXU?si=ytwnCr51pkyJRZtE"
+  }
+},
+{
+  "name": "緬甸",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 27.180440,
+    "lng": 97.477201
+  },
+  "podcast": {
+    "title": "Ep.203 從戰火中的臘戌逃離 | 中國人、緬甸人、緬甸華人? 身份認同之路 | 緬境之北成長歷程 ft. 郭嘉富",
+    "url": "https://youtu.be/oYrN5Nl3LXs?si=X75iqOvOAGtivimh"
+  }
+},
+{
+  "name": "塔吉克",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 38.859924,
+    "lng": 71.218209
+  },
+  "podcast": {
+    "title": "Ep.204 塔吉克旅行怎麼這麼苦… 大博奕時代的帕米爾公路 | 花園首都杜尚別是中國的形狀? ft. 唐宏安",
+    "url": "https://youtu.be/DzYiq7KNvHI?si=TzYsxhxe7jJQXv4l"
+  }
+},
+{
+  "name": "巴黎",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 48.8698874,
+    "lng": 2.2079003
+  },
+  "podcast": {
+    "title": "Ep.205 巴黎怎麼吃：傳統混搭亞洲風正夯 | 開車地獄 aka 行人天堂 | 生活在巴黎 ft. Carlton",
+    "url": "https://youtu.be/SLY8Uw25WvU?si=OvnJfCxQuv3JJ43h"
+  }
+},
+{
+  "name": "緬甸",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 19.671680,
+    "lng": 95.548453
+  },
+  "podcast": {
+    "title": "Ep.207 緬甸最新旅遊概況 | 曼德勒火線對峙最前線 | 蒲甘佛塔間的畫家騙徒 ft. 河狸醫師里歐",
+    "url": "https://youtu.be/SmERW75gwfQ?si=LtXiOhrY2xtaHbPU"
+  }
+},
+{
+  "name": "紐西蘭",
+  "continent": "大洋洲",
+  "coordinates": {
+    "lat": -43.3124779,
+    "lng": 172.5641088
+  },
+  "podcast": {
+    "title": "Ep.208 漂流世界盡頭：紐西蘭南島露營車指南 | 冰河、雪山、湖泊、廢墟、鬼城歷險 ft. Han",
+    "url": "https://youtu.be/pu4jNxjRNBk?si=ySy8Xl2GaPtjJ2lT"
+  }
+},
+{
+  "name": "南美",
+  "continent": "南美洲",
+  "coordinates": {
+    "lat": -13.1631936,
+    "lng": -72.547837
+  },
+  "podcast": {
+    "title": "Ep.209 大學生寫遺書環遊南美 80 天 | 徒步馬丘比丘、冰山雪攀、死亡單車公路、沙漠越野的極限挑戰 ft. Winter",
+    "url": "https://youtu.be/3guZIwzBLZI?si=g2Wc7dYsgBEh4xgq"
+  }
+},
+{
+  "name": "紐西蘭",
+  "continent": "大洋洲",
+  "coordinates": {
+    "lat": -38.250896,
+    "lng": 175.903735
+  },
+  "podcast": {
+    "title": "Ep. 210 孕育偉大電影的紐西蘭北島 | 末日火山、哈比屯、納尼亞、富士山 Junior、螢火蟲激流冒險 ft. Han",
+    "url": "https://youtu.be/4V-iCznYCY4?si=1SDkyiNSC1wTxeDb"
+  }
+},
+{
+  "name": "東京",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 35.685398,
+    "lng": 139.7512998
+  },
+  "podcast": {
+    "title": "Ep.211 日本的生與死 | 移居東京別帶有粉紅泡泡 | 融入日本工作與生活的七大訣竅 ft. Alicia",
+    "url": "https://youtu.be/njOK4tqeoVQ?si=GE9K-iDu6ZMxpMSV"
+  }
+},
+{
+  "name": "阿爾巴尼亞",
+  "continent": "歐洲",
+  "coordinates": {
+    "lat": 41.339991,
+    "lng": 19.798205
+  },
+  "podcast": {
+    "title": "Ep.212 怎麼能不愛阿爾巴尼亞? | 波士尼亞與赫塞哥維納的百年創傷 | 塞拉耶佛圍城 ft. 卡卡",
+    "url": "https://youtu.be/gCTKiS6X7pw?si=0YumzsZhMbSFFsly"
+  }
+},
+{
+  "name": "秘魯",
+  "continent": "南美洲",
+  "coordinates": {
+    "lat": -10.180926,
+    "lng": -75.488479
+  },
+  "podcast": {
+    "title": "Ep.213 不可能第一次去南美就遇到政變吧 | 秘魯耶穌大吃天竺鼠 | 被獻祭冰封 500 年的少女 ft. 卡卡",
+    "url": "https://youtu.be/QNlEHXy0UB0?si=qifNdmrA61ZGWNW3"
+  }
+},
+{
+  "name": "東京",
+  "continent": "亞洲",
+  "coordinates": {
+    "lat": 35.7046124,
+    "lng": 139.7542024
+  },
+  "podcast": {
+    "title": "Ep.214 東京現地特搜：走訪在地人週末生活的散步街區 | 穿梭東京人的東京 | 何謂東京人? ft. Keith",
+    "url": "https://youtu.be/Pa6LQYiewWE?si=ClEg_RO2Yu77o3RY"
+  }
+},
+{
+  "name": "布宜諾斯艾利斯",
+  "continent": "南美洲",
+  "coordinates": {
+    "lat": -34.603722,
+    "lng": -58.381592
+  },
+  "podcast": {
+    "title": "Ep.216 極端通膨下的布宜諾斯艾利斯 | 穿越阿根廷、翻過安地斯山脈 | 門多薩是酒鬼夢鄉 ft. 梁雯",
+    "url": "https://youtu.be/PW8K4Utk4IE?si=eawYZz0hKtTpEOJN"
+  }
 }]
