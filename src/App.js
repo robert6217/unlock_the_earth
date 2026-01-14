@@ -17,11 +17,9 @@ function App() {
 	const mapInstanceRef = useRef(null);
 
 	useEffect(() => {
-		fetch(process.env.PUBLIC_URL + '/map_info/data.json')
-			.then(res => res.json())
-			.then(data => {
-				setLocations(data);
-			});
+		fetch('/api/locations') 
+		.then(res => res.json())
+		.then(data => setLocations(data));
 	}, []);
 
 	return (
