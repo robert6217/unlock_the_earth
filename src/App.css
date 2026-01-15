@@ -1,38 +1,123 @@
 .App {
-  text-align: center;
+	text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+	height: 40vmin;
+	pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+	.App-logo {
+		animation: App-logo-spin infinite 20s linear;
+	}
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
 }
 
 .App-link {
-  color: #61dafb;
+	color: #61dafb;
 }
 
 @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+	from {
+		transform: rotate(0deg);
+	}
+
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.map-wrapper {
+	opacity: 0.3;
+	transition: opacity 1.5s ease-in-out;
+	width: 100%;
+	height: 100vh;
+}
+
+.map-wrapper.visible {
+	opacity: 1;
+}
+
+.loading-overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-color: rgba(255, 255, 255, 0.6);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	z-index: 9999;
+	backdrop-filter: blur(3px);
+	animation: fadeIn 0.8s ease-out forwards;
+}
+
+.earth-spinner {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-image: url('/public/earth.png');
+	background-size: 200% 100%;
+	box-shadow:
+		inset 18px 0 40px 10px rgba(0, 0, 0, 0.75),
+		inset -8px 0 12px 4px rgba(255, 255, 255, 0.8),
+		inset 0px -10px 25px 6px rgba(255, 255, 255, 0.25),
+		inset -20px -10px 25px 4px rgba(255, 255, 255, 0.35);
+
+	animation: rotate-earth 2.5s linear infinite;
+}
+
+@keyframes rotate-earth {
+	0% {
+		background-position: 0 0;
+	}
+
+	100% {
+		background-position: -200% 0;
+	}
+}
+
+.loading-text {
+	margin-top: 20px;
+	color: white;
+	font-family: monospace;
+	font-size: 1.2rem;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	animation: blink 1.5s infinite;
+}
+
+@keyframes blink {
+	0%,
+	100% {
+		opacity: 1;
+	}
+
+	50% {
+		opacity: 0.6;
+	}
+}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
 }

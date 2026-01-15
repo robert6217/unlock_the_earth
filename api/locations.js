@@ -24,16 +24,16 @@ module.exports = async (req, res) => {
 
 			const props = page.properties;
 			return {
-			id: page.id,
-			name: props.Name?.title?.[0]?.plain_text || "Unnamed",
-			coordinates: {
-				lat: props.Lat?.number || 0,
-				lng: props.Lng?.number || 0,
-			},
-			podcast: {
-				title: props.PodcastTitle?.rich_text?.[0]?.plain_text || "",
-				url: props.PodcastUrl?.url || "#",
-			}
+				id: page.id,
+				name: props.Name?.title?.[0]?.plain_text || "Unnamed",
+				coordinates: {
+					lat: props.Lat?.number || 0,
+					lng: props.Lng?.number || 0,
+				},
+				podcast: {
+					title: props.PodcastTitle?.rich_text?.[0]?.plain_text || "",
+					url: props.PodcastUrl?.url || "#",
+				}
 			};
 		}).filter(item => item !== null); // 過濾掉無效資料
 
