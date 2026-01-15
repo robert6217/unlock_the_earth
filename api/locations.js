@@ -15,17 +15,31 @@ module.exports = async (req, res) => {
 
 		console.log(`Using Data Source ID: ${dataSourceId} for query...`);
 
-		const response = await notion.dataSources.query({
-			data_source_id: dataSourceId, 
-		});
+		let allResults = [];
+		let hasMore = true;
+		let cursor = undefined;
 
-		const formattedData = response.results.map((page) => {
+		while (hasMore) {
+			const response = await notion.dataSources.query({
+				data_source_id: dataSourceId,
+				start_cursor: cursor,
+			});
+
+			allResults = allResults.concat(response.results);
+			hasMore = response.has_more;
+			cursor = response.next_cursor;
+		}
+
+		console.log('Total Notion API response:', allResults.length);
+
+		const formattedData = allResults.map((page) => {
 			if (!page.properties) return null;
 
 			const props = page.properties;
 			return {
 				id: page.id,
 				name: props.Name?.title?.[0]?.plain_text || "Unnamed",
+				continent: props.Continent?.select?.name || "Other",
 				coordinates: {
 					lat: props.Lat?.number || 0,
 					lng: props.Lng?.number || 0,
