@@ -19,11 +19,9 @@ function App() {
 	const [isLoading, setIsLoading] = useState(true);
 
 	useEffect(() => {
-		// const API_URL = '/api/locations';
+		const API_URL = '/api/locations';
 		
-		// fetch(API_URL)
-		// fetch('http://localhost:4000/api/locations')
-		fetch('xxx')
+		fetch(API_URL)
 			.then(res => res.json())
 			.then(data => setLocations(data))
 			.catch(error => console.error("Error:", error))
@@ -33,12 +31,6 @@ function App() {
 				}, 2500);
 			});
 	}, []);
-
-	// useEffect(() => {
-	// 	fetch('/api/locations') 
-	// 	.then(res => res.json())
-	// 	.then(data => setLocations(data));
-	// }, []);
 
 	return (
 		<div style={{ position: 'relative', height: '100vh', width: '100%' }}>
