@@ -92,7 +92,7 @@
 
 .loading-text {
 	margin-top: 20px;
-	color: white;
+	color: rgb(137, 137, 137);
 	font-family: monospace;
 	font-size: 1.2rem;
 	font-weight: bold;
@@ -102,6 +102,7 @@
 }
 
 @keyframes blink {
+
 	0%,
 	100% {
 		opacity: 1;
@@ -119,5 +120,135 @@
 
 	to {
 		opacity: 1;
+	}
+}
+
+.sidebar-container {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	width: 220px;
+
+	background: rgba(255, 255, 255, 0.95);
+	backdrop-filter: blur(10px);
+
+	border-radius: 12px;
+	padding: 20px;
+	box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+	z-index: 1000;
+
+	opacity: 0;
+	transform: translateX(-50px);
+	transition: all 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.sidebar-container.visible {
+	opacity: 1;
+	transform: translateX(0);
+}
+
+.sidebar-header h3 {
+	margin: 0;
+	font-size: 1.2rem;
+	letter-spacing: 2px;
+	color: #1a1a1a;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.sidebar-header .subtitle {
+	display: block;
+	font-size: 0.75rem;
+	color: #888;
+	margin-bottom: 15px;
+	text-transform: uppercase;
+	border-bottom: 1px solid #eee;
+	padding-bottom: 10px;
+}
+
+.filter-list {
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+}
+
+.custom-checkbox-wrapper {
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+	position: relative;
+	user-select: none;
+	padding: 4px 0;
+	transition: transform 0.2s;
+}
+
+.custom-checkbox-wrapper:hover {
+	transform: translateX(5px);
+}
+
+.custom-checkbox-wrapper input {
+	position: absolute;
+	opacity: 0;
+	cursor: pointer;
+	height: 0;
+	width: 0;
+}
+
+.checkmark {
+	position: relative;
+	height: 20px;
+	width: 20px;
+	background-color: #eee;
+	border-radius: 6px;
+	margin-right: 12px;
+	transition: all 0.2s ease;
+	border: 1px solid #ddd;
+}
+
+.custom-checkbox-wrapper input:checked~.checkmark {
+	background-color: #2c3e50;
+	border-color: #2c3e50;
+}
+
+.checkmark:after {
+	content: "";
+	position: absolute;
+	display: none;
+}
+
+.custom-checkbox-wrapper input:checked~.checkmark:after {
+	display: block;
+}
+
+.custom-checkbox-wrapper .checkmark:after {
+	left: 7px;
+	top: 3px;
+	width: 5px;
+	height: 10px;
+	border: solid white;
+	border-width: 0 2px 2px 0;
+	transform: rotate(45deg);
+}
+
+.label-text {
+	font-size: 0.95rem;
+	color: #555;
+	font-weight: 500;
+}
+
+.sidebar-footer {
+	margin-top: 20px;
+	padding-top: 10px;
+	border-top: 1px dashed #ddd;
+	font-size: 0.8rem;
+	color: #aaa;
+	text-align: right;
+}
+
+@media (max-width: 600px) {
+	.sidebar-container {
+		width: auto;
+		right: 20px;
+		bottom: 20px;
+		top: auto;
 	}
 }
