@@ -7,7 +7,6 @@ import './App.css';
 import L from 'leaflet';
 
 const createCustomIcon = (width = 30, height = 40) => {
-    
 	const pinPath = "M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0z";
 	const holePath = "M 192 132 a 60 60 0 1 0 0 120 a 60 60 0 1 0 0 -120";
 	const svgString = `
@@ -25,13 +24,13 @@ const createCustomIcon = (width = 30, height = 40) => {
 	return L.divIcon({
 		className: 'custom-pin-icon',
 		html: svgString,
-		iconSize: [width, height], 
-		iconAnchor: [width / 2, height], 
-		popupAnchor: [0, -height - 5], 
+		iconSize: [width, height],
+		iconAnchor: [width / 2, height],
+		popupAnchor: [0, -height - 5],
 	});
 };
 
-const markerIcon = createCustomIcon(20,30);
+const markerIcon = createCustomIcon(20, 30);
 
 function App() {
 	const position = [20, 0];
@@ -41,7 +40,7 @@ function App() {
 	const [selectedContinents, setSelectedContinents] = useState(new Set());
 	const [availableContinents, setAvailableContinents] = useState([]);
 	const [isLoading, setIsLoading] = useState(true);
-	
+
 	const [isDarkMode, setIsDarkMode] = useState(() => {
 		const savedTheme = localStorage.getItem('theme');
 		if (savedTheme) {
