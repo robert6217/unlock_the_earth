@@ -1,3 +1,84 @@
+:root {
+	--bg-color: #ffffff;
+	--text-primary: #1a1a1a;
+	--text-secondary: #888888;
+	--sidebar-bg: rgba(255, 255, 255, 0.95);
+	--checkbox-bg: #eee;
+	--checkbox-border: #ddd;
+	--checkmark-bg: #2c3e50;
+	--shadow-color: rgba(0, 0, 0, 0.15);
+}
+
+[data-theme="dark"] {
+	--bg-color: #121212;
+	--text-primary: #ffffff;
+	--text-secondary: #aaaaaa;
+	--sidebar-bg: rgba(30, 30, 30, 0.95);
+	--checkbox-bg: #444;
+	--checkbox-border: #555;
+	--checkmark-bg: #f1c40f;
+	--shadow-color: rgba(0, 0, 0, 0.5);
+}
+
+.header-top-row {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.theme-switch {
+	position: relative;
+	display: inline-block;
+	width: 50px;
+	height: 26px;
+}
+
+.theme-switch input {
+	opacity: 0;
+	width: 0;
+	height: 0;
+}
+
+.slider {
+	position: absolute;
+	cursor: pointer;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #ccc;
+	transition: .4s;
+	border-radius: 34px;
+}
+
+.slider:before {
+	position: absolute;
+	content: "☀️";
+	/* 預設顯示太陽 */
+	font-size: 14px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 20px;
+	width: 20px;
+	left: 3px;
+	bottom: 3px;
+	background-color: white;
+	transition: .4s;
+	border-radius: 50%;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+input:checked+.slider {
+	background-color: #2c3e50;
+}
+
+input:checked+.slider:before {
+	transform: translateX(24px);
+	content: "🌙";
+	background-color: #1a1a1a;
+}
+
 .App {
 	text-align: center;
 }
@@ -129,12 +210,12 @@
 	left: 20px;
 	width: 220px;
 
-	background: rgba(255, 255, 255, 0.95);
+	background: var(--sidebar-bg);
 	backdrop-filter: blur(10px);
 
 	border-radius: 12px;
 	padding: 20px;
-	box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+	box-shadow: 0 8px 32px var(--shadow-color);
 	z-index: 1000;
 
 	opacity: 0;
@@ -151,14 +232,14 @@
 	margin: 0;
 	font-size: 1.2rem;
 	letter-spacing: 2px;
-	color: #1a1a1a;
+	color: var(--text-primary);
 	font-family: 'Courier New', Courier, monospace;
 }
 
 .sidebar-header .subtitle {
 	display: block;
 	font-size: 0.75rem;
-	color: #888;
+	color: var(--text-secondary);
 	margin-bottom: 15px;
 	text-transform: uppercase;
 	border-bottom: 1px solid #eee;
@@ -197,16 +278,16 @@
 	position: relative;
 	height: 20px;
 	width: 20px;
-	background-color: #eee;
+	background-color: var(--checkbox-bg);
 	border-radius: 6px;
 	margin-right: 12px;
 	transition: all 0.2s ease;
-	border: 1px solid #ddd;
+	border: 1px solid var(--checkbox-border);
 }
 
 .custom-checkbox-wrapper input:checked~.checkmark {
-	background-color: #2c3e50;
-	border-color: #2c3e50;
+	background-color: var(--checkmark-bg);
+	border-color: var(--checkmark-bg);
 }
 
 .checkmark:after {
@@ -231,7 +312,7 @@
 
 .label-text {
 	font-size: 0.95rem;
-	color: #555;
+	color: var(--text-primary);
 	font-weight: 500;
 }
 
@@ -240,7 +321,7 @@
 	padding-top: 10px;
 	border-top: 1px dashed #ddd;
 	font-size: 0.8rem;
-	color: #aaa;
+	color: var(--text-secondary);
 	text-align: right;
 }
 
@@ -251,4 +332,18 @@
 		bottom: 20px;
 		top: auto;
 	}
+}
+
+.custom-pin-icon {
+	background: none !important;
+	border: none !important;
+}
+
+.custom-pin-icon svg {
+	filter: drop-shadow(0 3px 5px rgba(0, 0, 0, 0.3));
+	transition: transform 0.2s;
+}
+
+.custom-pin-icon:hover svg {
+	transform: scale(1.1) translateY(-5px);
 }
