@@ -41,11 +41,22 @@ function App() {
 	const [selectedContinents, setSelectedContinents] = useState(new Set());
 	const [availableContinents, setAvailableContinents] = useState([]);
 	const [isLoading, setIsLoading] = useState(true);
-	const [isDarkMode, setIsDarkMode] = useState(false);
+	
+	const [isDarkMode, setIsDarkMode] = useState(() => {
+		const savedTheme = localStorage.getItem('theme');
+		if (savedTheme) {
+			return savedTheme === 'dark';
+		}
+		return window.matchMedia('(prefers-color-scheme: dark)').matches;
+	});
 
 	const toggleTheme = () => {
 		setIsDarkMode(!isDarkMode);
 	};
+
+	useEffect(() => {
+		localStorage.setItem('theme', isDarkMode ? 'dark' : 'light');
+	}, [isDarkMode]);
 
 	useEffect(() => {
 		const API_URL = '/api/locations';
