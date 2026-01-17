@@ -40,6 +40,7 @@ function App() {
 	const [selectedContinents, setSelectedContinents] = useState(new Set());
 	const [availableContinents, setAvailableContinents] = useState([]);
 	const [isLoading, setIsLoading] = useState(true);
+	const [isCollapsed, setIsCollapsed] = useState(window.innerWidth < 600);
 
 	const [isDarkMode, setIsDarkMode] = useState(() => {
 		const savedTheme = localStorage.getItem('theme');
@@ -58,7 +59,7 @@ function App() {
 	}, [isDarkMode]);
 
 	useEffect(() => {
-		const API_URL = '/api/locations';
+		const API_URL = '/map_info/data.json';
 
 		fetch(API_URL)
 			.then(res => res.json())
@@ -103,11 +104,20 @@ function App() {
 						<div className="loading-text">UNLOCKING THE EARTH...</div>
 					</div>
 				)}
-				<div className={`sidebar-container ${!isLoading ? 'visible' : ''}`}>
-					<div className="sidebar-header">
+				<div className={`sidebar-container ${!isLoading ? 'visible' : ''} ${isCollapsed ? 'collapsed' : ''}`}>
+					<div className="sidebar-header" onClick={() => setIsCollapsed(!isCollapsed)}>
 						<div className="header-top-row">
-							<h3>解鎖地球</h3>
-							<label className="theme-switch">
+							<div className="header-title-group">
+								<h3>解鎖地球</h3>
+								<button className="toggle-btn">
+									{isCollapsed ? (
+										<svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+									) : (
+										<svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><polyline points="18 15 12 9 6 15"></polyline></svg>
+									)}
+								</button>
+							</div>
+							<label className="theme-switch" onClick={(e) => e.stopPropagation()}>
 								<input
 									type="checkbox"
 									checked={isDarkMode}
@@ -120,18 +130,20 @@ function App() {
 						<span className="subtitle">依洲別篩選</span>
 					</div>
 
-					<div className="filter-list">
-						{availableContinents.map(continent => (
-							<label key={continent} className="custom-checkbox-wrapper">
-								<input
-									type="checkbox"
-									checked={selectedContinents.has(continent)}
-									onChange={() => handleCheckboxChange(continent)}
-								/>
-								<span className="checkmark"></span>
-								<span className="label-text">{continent}</span>
-							</label>
-						))}
+					<div className="sidebar-content">
+						<div className="filter-list">
+							{availableContinents.map(continent => (
+								<label key={continent} className="custom-checkbox-wrapper">
+									<input
+										type="checkbox"
+										checked={selectedContinents.has(continent)}
+										onChange={() => handleCheckboxChange(continent)}
+									/>
+									<span className="checkmark"></span>
+									<span className="label-text">{continent}</span>
+								</label>
+							))}
+						</div>
 					</div>
 
 					<div className="sidebar-footer">
