@@ -1,6 +1,6 @@
 {
   "name": "unlock_the_earth",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "private": true,
   "dependencies": {
     "@notionhq/client": "^5.6.0",
@@ -17,6 +17,7 @@
     "react-dom": "^19.2.0",
     "react-leaflet": "^5.0.0",
     "react-scripts": "5.0.1",
+    "rss-parser": "^3.13.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

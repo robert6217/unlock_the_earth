@@ -41,6 +41,7 @@ function App() {
 	const [availableContinents, setAvailableContinents] = useState([]);
 	const [isLoading, setIsLoading] = useState(true);
 	const [isCollapsed, setIsCollapsed] = useState(window.innerWidth < 600);
+	const [latestEpisode, setLatestEpisode] = useState(null);
 
 	const [isDarkMode, setIsDarkMode] = useState(() => {
 		const savedTheme = localStorage.getItem('theme');
@@ -59,15 +60,16 @@ function App() {
 	}, [isDarkMode]);
 
 	useEffect(() => {
-		const API_URL = '/map_info/data.json';
+		const API_URL = '/api/locations';
 
 		fetch(API_URL)
 			.then(res => res.json())
 			.then(data => {
-				setAllLocations(data);
-				setFilteredLocations(data);
+				setAllLocations(data.locations);
+				setFilteredLocations(data.locations);
+				setLatestEpisode(data.latest);
 
-				const continents = new Set(data.map(item => item.continent).filter(Boolean));
+				const continents = new Set(data.locations.map(item => item.continent).filter(Boolean));
 				setAvailableContinents([...continents]);
 				setSelectedContinents(continents); // default select all
 			})
@@ -131,18 +133,71 @@ function App() {
 					</div>
 
 					<div className="sidebar-content">
-						<div className="filter-list">
-							{availableContinents.map(continent => (
-								<label key={continent} className="custom-checkbox-wrapper">
-									<input
-										type="checkbox"
-										checked={selectedContinents.has(continent)}
-										onChange={() => handleCheckboxChange(continent)}
-									/>
-									<span className="checkmark"></span>
-									<span className="label-text">{continent}</span>
-								</label>
-							))}
+						{latestEpisode && (
+							<div className="sidebar-section">
+								<h4 className="section-title">🔥 最新單集</h4>
+								<div className="latest-card">
+									<div className="latest-tag">NEW</div>
+									<h3 className="latest-title">{latestEpisode.podcast.title}</h3>
+									<a href={latestEpisode.podcast.url} target="_blank" rel="noopener noreferrer" className="play-btn">
+										<svg
+											xmlns="http://www.w3.org/2000/svg"
+											viewBox="0 0 24 24"
+											width="20"
+											height="20"
+											className="yt-icon"
+										>
+											<path fill="currentColor" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+										</svg>
+										馬上收聽
+									</a>
+								</div>
+							</div>
+						)}
+
+						<hr className="divider" />
+						<div className="sidebar-section">
+							<h4 className="section-title">🌍 篩選七大洲</h4>
+							<div className="filter-list">
+								{availableContinents.map(continent => (
+									<label key={continent} className="custom-checkbox-wrapper">
+										<input
+											type="checkbox"
+											checked={selectedContinents.has(continent)}
+											onChange={() => handleCheckboxChange(continent)}
+										/>
+										<span className="checkmark"></span>
+										<span className="label-text">{continent}</span>
+									</label>
+								))}
+							</div>
+						</div>
+
+						<hr className="divider" />
+
+						<div className="sidebar-section">
+							<h4 className="section-title">🎧 收聽更多</h4>
+							<div className="social-badges">
+								{/* YouTube */}
+								<a href="https://www.youtube.com/@unlocktheearthpodcast" target="_blank" rel="noreferrer">
+									<img src="https://img.shields.io/badge/--red?logo=youtube&style=social" alt="YouTube Subscribe" />
+								</a>
+
+								{/* Apple Podcasts */}
+								<a href="https://podcasts.apple.com/tw/podcast/-旅行-歷史-文化/id1476564589" target="_blank" rel="noreferrer">
+									<img src="https://img.shields.io/badge/--purple?logo=applepodcasts&style=social" alt="Apple Podcasts" />
+								</a>
+
+								{/* Spotify */}
+								<a href="https://open.spotify.com/show/0KAH1lIkmtgoe4kPEGed4a" target="_blank" rel="noreferrer">
+									<img src="https://img.shields.io/badge/--green?logo=spotify&style=social" alt="Spotify" />
+								</a>
+
+								{/* Instagram */}
+								<a href="https://www.instagram.com/unlock.the.earth.podcast/" target="_blank" rel="noreferrer">
+									<img src="https://img.shields.io/badge/--red?logo=instagram&style=social" alt="Instagram" />
+								</a>
+							</div>
 						</div>
 					</div>
 
